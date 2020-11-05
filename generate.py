@@ -13,7 +13,7 @@ README = 'readme.txt'
 
 def getDataset(name, basePath):
    filePath = os.path.join(basePath, name + ".txt")
-   votes = [int(i) for i in open(filePath).read().strip().split('\n')]
+   votes = [int(i) for i in open(filePath).read().strip().replace(',','').split('\n')]
    return votes
 
 def getLeadingDigits(votes):
