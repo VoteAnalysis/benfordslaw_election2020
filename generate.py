@@ -24,7 +24,7 @@ def getBenfordsLawSample(numItems):
    standardBenfordsLawPercents = [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
    return [int(p * numItems / 100) for p in standardBenfordsLawPercents]
 
-with open('readme.md', 'w') as f:
+with open('index.html', 'w') as f:
    for dataDirName in next(os.walk(SRCDATA))[1]:
       basePath = os.path.join(SRCDATA, dataDirName)
       readMePath = os.path.join(basePath, README)
@@ -57,8 +57,8 @@ with open('readme.md', 'w') as f:
       imagePath = os.path.join(basePath, f"{dataDirName}.png")
       plt.savefig(imagePath, dpi=150)
 
-      f.write('***\n')
-      f.write(f'#`{dataDirName}`#\n')
-      f.write(open(readMePath).read())
+      f.write('<hr>\n')
+      f.write(f'<h1>{dataDirName}</h1>\n')
+      f.write(open(readMePath).read().replace('\n', '<br/>'))
       f.write('\n')
-      f.write(f'![alt text]({imagePath} "Title"))\n')
+      f.write(f'<img src="{imagePath}" />')
