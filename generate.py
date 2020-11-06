@@ -11,10 +11,17 @@ LEADINGDIGITS = list(range(10)[1:])
 SRCDATA = "source_data"
 README = 'readme.txt'
 
-def getDataset(name, basePath):
+def getRawDataset(name, basePath):
    filePath = os.path.join(basePath, name + ".txt")
-   votes = [int(i.split('#')[0].strip()) for i in open(filePath).read().strip().replace(',','').split('\n')]
-   return votes
+   rows = [i.strip() for i in open(filePath).read().strip().replace(',','').split('\n')]
+   return rows
+
+def getNames(name, basePath):
+   names = [i.split('#')[1].strip() for i in getRawDataset(name, basePath)]
+   return names
+
+def getDataset(name, basePath):
+   return [int(i.split('#')[0].strip()) for i in getRawDataset(name, basePath)]
 
 def getLeadingDigits(votes):
    return [sum([1 for i in votes if str(i).startswith(str(leadingDigit))])
@@ -42,6 +49,15 @@ with open('index.html', 'w') as f:
       f.write('<hr>\n')
       f.write(f'<h1 id="{dataDirName}">{dataDirName}</h1>\n')
 
+      votesArray = [getDataset(name, basePath) for name in NAMES]
+      subNames = getNames(NAMES[0], basePath)
+      for nameIdx in range(len(NAMES)):
+         name = NAMES[nameIdx]
+         for rowIdx in range(len(votesArray[0])):
+            subName = subNames[rowIdx]
+            if votesArray[nameIdx][rowIdx] == 0 and votesArray[1 - nameIdx][rowIdx] != 0:
+               f.write(f'<span style="color: red">Zero votes for {name} in "{subName}" when {NAMES[1 - nameIdx]} has {votesArray[1 - nameIdx][rowIdx]}</span><br/>')
+
       fig = plt.figure()
       for nameIdx in range(len(NAMES)):
          name = NAMES[nameIdx]
@@ -51,7 +67,8 @@ with open('index.html', 'w') as f:
          plot = fig.add_subplot(121 + nameIdx)
          y_pos = np.arange(N)
 
-         votes = getDataset(name, basePath)
+         votesWithZeros = getDataset(name, basePath)
+         votes = [x for x in votesWithZeros if x > 0]
          numVotes = len(votes)
 
          seriesValsBenford = getBenfordsLawSample(numVotes)
@@ -62,7 +79,11 @@ with open('index.html', 'w') as f:
          seriesVals = getLeadingDigits(votes)
          plot.bar(y_pos + width/2, seriesVals, width, color=COLORS[nameIdx])
 
-         f.write(f'<a href="source_data/{dataDirName}/{name}.txt">Source data for {name}<a><br/>')
+         f.write(f'<a href="source_data/{dataDirName}/{name}.txt">Source data for {name}<a>; ')
+         f.write(f'Nonzero counts: {numVotes}')
+         if 0 in votesWithZeros:
+            f.write(f'; <span style="color: red">Zero votes: {len([x for x in votesWithZeros if x == 0])}</span>')
+         f.write(f'<br/>')
       
       f.write("<br/>")
 

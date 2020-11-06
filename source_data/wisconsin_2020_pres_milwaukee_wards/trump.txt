@@ -1,478 +1,478 @@
-190
-28
-146
-188
-102
-350
-158
-306
-115
-284
-170
-134
-122
-71
-218
-154
-125
-125
-99
-93
-58
-81
-34
-33
-83
-80
-109
-27
-39
-88
-70
-224
-684
-263
-241
-95
-64
-41
-105
-49
-51
-67
-17
-81
-81
-34
-48
-35
-39
-49
-25
-45
-32
-11
-172
-27
-21
-25
-44
-23
-22
-23
-20
-54
-38
-22
-19
-106
-40
-78
-48
-74
-92
-62
-114
-57
-96
-145
-162
-379
-230
-301
-323
-224
-302
-274
-150
-183
-245
-217
-128
-260
-170
-23
-44
-118
-208
-32
-95
-34
-28
-57
-94
-33
-14
-11
-10
-26
-18
-11
-15
-18
-22
-16
-19
-10
-9
-24
-17
-20
-33
-33
-76
-52
-121
-73
-209
-227
-162
-78
-267
-359
-100
-117
-164
-121
-83
-129
-99
-25
-28
-21
-18
-6
-5
-6
-23
-22
-34
-32
-15
-19
-38
-26
-30
-50
-46
-21
-45
-14
-7
-26
-35
-92
-137
-34
-135
-265
-35
-50
-36
-30
-22
-39
-44
-36
-352
-312
-195
-216
-334
-259
-482
-363
-422
-696
-147
-127
-137
-218
-141
-152
-62
-55
-38
-79
-45
-69
-33
-47
-44
-133
-192
-186
-197
-163
-270
-302
-295
-315
-285
-310
-294
-100
-79
-65
-164
-155
-111
-95
-219
-128
-156
-107
-101
-42
-107
-67
-62
-110
-62
-43
-32
-114
-339
-75
-91
-113
-88
-97
-227
-159
-215
-152
-135
-206
-142
-229
-79
-60
-53
-108
-58
-47
-52
-51
-124
-169
-123
-108
-174
-388
-199
-485
-267
-360
-285
-634
-388
-376
-634
-567
-290
-297
-633
-600
-602
-359
-445
-481
-265
-111
-252
-197
-50
-136
-141
-386
-186
-141
-160
-198
-277
-191
-191
-288
-197
-162
-249
-224
-361
-309
-429
-379
-344
-215
-302
-235
-453
-104
-277
-389
-762
-320
-436
-370
-352
-0
-0
-4
-29
-23
-58
-26
-74
-3
-0
-323
-24
-327
-192
-553
-772
-686
-729
-797
-715
-936
-1050
-641
-788
-1
-878
-823
-470
-369
-582
-777
-428
-469
-197
-653
-502
-635
-528
-330
-207
-692
-350
-256
-712
-339
-127
-396
-386
-763
-347
-212
-172
-459
-468
-357
-41
-270
-916
-904
-845
-824
-1024
-438
-447
-343
-306
-439
-530
-643
-504
-499
-518
-689
-767
-317
-428
-467
-200
-346
-448
-525
-665
-372
-878
-829
-772
-1744
-1607
-1758
-2090
-2056
-1307
-535
-688
-742
-807
-606
-435
-419
-1252
-1179
-1570
-1345
-352
-298
-401
-589
-333
-267
-509
-276
-631
-379
-370
-540
-175
-333
-325
-489
-527
-369
-455
-686
-459
-484
-519
-338
-302
-365
-280
-488
-401
-399
-470
-337
-523
-414
-679
-663
-829
-355
-433
-473
-641
-771
-649
-453
-572
-410
-730
-357
-686
-249
-290
-550
-437
-501
-208
-483
-378
-310
+190    #   City of Milwaukee Ward 1 
+28    # City of Milwaukee Ward 2 
+146    #   City of Milwaukee Ward 3 
+188    #   City of Milwaukee Ward 4 
+102    #   City of Milwaukee Ward 5 
+350    #   City of Milwaukee Ward 6 
+158    #   City of Milwaukee Ward 7 
+306    #   City of Milwaukee Ward 8 
+115    #   City of Milwaukee Ward 9 
+284    #   City of Milwaukee Ward 10 
+170    #   City of Milwaukee Ward 11 
+134    #   City of Milwaukee Ward 12 
+122    #   City of Milwaukee Ward 13 
+71    # City of Milwaukee Ward 14 
+218    #   City of Milwaukee Ward 15 
+154    #   City of Milwaukee Ward 16 
+125    #   City of Milwaukee Ward 17 
+125    #   City of Milwaukee Ward 18 
+99    # City of Milwaukee Ward 19 
+93    # City of Milwaukee Ward 20 
+58    # City of Milwaukee Ward 21 
+81    # City of Milwaukee Ward 22 
+34    # City of Milwaukee Ward 23 
+33    # City of Milwaukee Ward 24 
+83    # City of Milwaukee Ward 25 
+80    # City of Milwaukee Ward 26 
+109    #   City of Milwaukee Ward 27 
+27    # City of Milwaukee Ward 28 
+39    # City of Milwaukee Ward 29 
+88    # City of Milwaukee Ward 30 
+70    # City of Milwaukee Ward 31 
+224    #   City of Milwaukee Ward 32 
+684    #   City of Milwaukee Ward 33 
+263    #   City of Milwaukee Ward 34 
+241    #   City of Milwaukee Ward 35 
+95    # City of Milwaukee Ward 36 
+64    # City of Milwaukee Ward 37 
+41    # City of Milwaukee Ward 38 
+105    #   City of Milwaukee Ward 39 
+49    # City of Milwaukee Ward 40 
+51    # City of Milwaukee Ward 41 
+67    # City of Milwaukee Ward 42 
+17    # City of Milwaukee Ward 43 
+81    # City of Milwaukee Ward 44 
+81    # City of Milwaukee Ward 45 
+34    # City of Milwaukee Ward 46 
+48    # City of Milwaukee Ward 47 
+35    # City of Milwaukee Ward 48 
+39    # City of Milwaukee Ward 49 
+49    # City of Milwaukee Ward 50 
+25    # City of Milwaukee Ward 51 
+45    # City of Milwaukee Ward 52 
+32    # City of Milwaukee Ward 53 
+11    # City of Milwaukee Ward 54 
+172    #   City of Milwaukee Ward 55 
+27    # City of Milwaukee Ward 56 
+21    # City of Milwaukee Ward 57 
+25    # City of Milwaukee Ward 58 
+44    # City of Milwaukee Ward 59 
+23    # City of Milwaukee Ward 60 
+22    # City of Milwaukee Ward 61 
+23    # City of Milwaukee Ward 62 
+20    # City of Milwaukee Ward 63 
+54    # City of Milwaukee Ward 64 
+38    # City of Milwaukee Ward 65 
+22    # City of Milwaukee Ward 66 
+19    # City of Milwaukee Ward 67 
+106    #   City of Milwaukee Ward 68 
+40    # City of Milwaukee Ward 69 
+78    # City of Milwaukee Ward 70 
+48    # City of Milwaukee Ward 71 
+74    # City of Milwaukee Ward 72 
+92    # City of Milwaukee Ward 73 
+62    # City of Milwaukee Ward 74 
+114    #   City of Milwaukee Ward 75 
+57    # City of Milwaukee Ward 76 
+96    # City of Milwaukee Ward 77 
+145    #   City of Milwaukee Ward 78 
+162    #   City of Milwaukee Ward 79 
+379    #   City of Milwaukee Ward 80 
+230    #   City of Milwaukee Ward 81 
+301    #   City of Milwaukee Ward 82 
+323    #   City of Milwaukee Ward 83 
+224    #   City of Milwaukee Ward 84 
+302    #   City of Milwaukee Ward 85 
+274    #   City of Milwaukee Ward 86 
+150    #   City of Milwaukee Ward 87 
+183    #   City of Milwaukee Ward 88 
+245    #   City of Milwaukee Ward 89 
+217    #   City of Milwaukee Ward 90 
+128    #   City of Milwaukee Ward 91 
+260    #   City of Milwaukee Ward 92 
+170    #   City of Milwaukee Ward 93 
+23    # City of Milwaukee Ward 94 
+44    # City of Milwaukee Ward 95 
+118    #   City of Milwaukee Ward 96 
+208    #   City of Milwaukee Ward 97 
+32    # City of Milwaukee Ward 98 
+95    # City of Milwaukee Ward 99 
+34    # City of Milwaukee Ward 100 
+28    # City of Milwaukee Ward 101 
+57    # City of Milwaukee Ward 102 
+94    # City of Milwaukee Ward 103 
+33    # City of Milwaukee Ward 104 
+14    # City of Milwaukee Ward 105 
+11    # City of Milwaukee Ward 106 
+10    # City of Milwaukee Ward 107 
+26    # City of Milwaukee Ward 108 
+18    # City of Milwaukee Ward 109 
+11    # City of Milwaukee Ward 110 
+15    # City of Milwaukee Ward 111 
+18    # City of Milwaukee Ward 112 
+22    # City of Milwaukee Ward 113 
+16    # City of Milwaukee Ward 114 
+19    # City of Milwaukee Ward 115 
+10    # City of Milwaukee Ward 116 
+9    #  City of Milwaukee Ward 117 
+24    # City of Milwaukee Ward 118 
+17    # City of Milwaukee Ward 119 
+20    # City of Milwaukee Ward 120 
+33    # City of Milwaukee Ward 121 
+33    # City of Milwaukee Ward 122 
+76    # City of Milwaukee Ward 123 
+52    # City of Milwaukee Ward 124 
+121    #   City of Milwaukee Ward 125 
+73    # City of Milwaukee Ward 126 
+209    #   City of Milwaukee Ward 127 
+227    #   City of Milwaukee Ward 128 
+162    #   City of Milwaukee Ward 129 
+78    # City of Milwaukee Ward 130 
+267    #   City of Milwaukee Ward 131 
+359    #   City of Milwaukee Ward 132 
+100    #   City of Milwaukee Ward 133 
+117    #   City of Milwaukee Ward 134 
+164    #   City of Milwaukee Ward 135 
+121    #   City of Milwaukee Ward 136 
+83    # City of Milwaukee Ward 137 
+129    #   City of Milwaukee Ward 138 
+99    # City of Milwaukee Ward 139 
+25    # City of Milwaukee Ward 140 
+28    # City of Milwaukee Ward 141 
+21    # City of Milwaukee Ward 142 
+18    # City of Milwaukee Ward 143 
+6    #  City of Milwaukee Ward 144 
+5    #  City of Milwaukee Ward 145 
+6    #  City of Milwaukee Ward 146 
+23    # City of Milwaukee Ward 147 
+22    # City of Milwaukee Ward 148 
+34    # City of Milwaukee Ward 149 
+32    # City of Milwaukee Ward 150 
+15    # City of Milwaukee Ward 151 
+19    # City of Milwaukee Ward 152 
+38    # City of Milwaukee Ward 153 
+26    # City of Milwaukee Ward 154 
+30    # City of Milwaukee Ward 155 
+50    # City of Milwaukee Ward 156 
+46    # City of Milwaukee Ward 157 
+21    # City of Milwaukee Ward 158 
+45    # City of Milwaukee Ward 159 
+14    # City of Milwaukee Ward 160 
+7    #  City of Milwaukee Ward 161 
+26    # City of Milwaukee Ward 162 
+35    # City of Milwaukee Ward 163 
+92    # City of Milwaukee Ward 164 
+137    #   City of Milwaukee Ward 165 
+34    # City of Milwaukee Ward 166 
+135    #   City of Milwaukee Ward 167 
+265    #   City of Milwaukee Ward 168 
+35    # City of Milwaukee Ward 169 
+50    # City of Milwaukee Ward 170 
+36    # City of Milwaukee Ward 171 
+30    # City of Milwaukee Ward 172 
+22    # City of Milwaukee Ward 173 
+39    # City of Milwaukee Ward 174 
+44    # City of Milwaukee Ward 175 
+36    # City of Milwaukee Ward 176 
+352    #   City of Milwaukee Ward 177 
+312    #   City of Milwaukee Ward 178 
+195    #   City of Milwaukee Ward 179 
+216    #   City of Milwaukee Ward 180 
+334    #   City of Milwaukee Ward 181 
+259    #   City of Milwaukee Ward 182 
+482    #   City of Milwaukee Ward 183 
+363    #   City of Milwaukee Ward 184 
+422    #   City of Milwaukee Ward 185 
+696    #   City of Milwaukee Ward 186 
+147    #   City of Milwaukee Ward 187 
+127    #   City of Milwaukee Ward 188 
+137    #   City of Milwaukee Ward 189 
+218    #   City of Milwaukee Ward 190 
+141    #   City of Milwaukee Ward 191 
+152    #   City of Milwaukee Ward 192 
+62    # City of Milwaukee Ward 193 
+55    # City of Milwaukee Ward 194 
+38    # City of Milwaukee Ward 195 
+79    # City of Milwaukee Ward 196 
+45    # City of Milwaukee Ward 197 
+69    # City of Milwaukee Ward 198 
+33    # City of Milwaukee Ward 199 
+47    # City of Milwaukee Ward 200 
+44    # City of Milwaukee Ward 201 
+133    #   City of Milwaukee Ward 202 
+192    #   City of Milwaukee Ward 203 
+186    #   City of Milwaukee Ward 204 
+197    #   City of Milwaukee Ward 205 
+163    #   City of Milwaukee Ward 206 
+270    #   City of Milwaukee Ward 207 
+302    #   City of Milwaukee Ward 208 
+295    #   City of Milwaukee Ward 209 
+315    #   City of Milwaukee Ward 210 
+285    #   City of Milwaukee Ward 211 
+310    #   City of Milwaukee Ward 212 
+294    #   City of Milwaukee Ward 213 
+100    #   City of Milwaukee Ward 214 
+79    # City of Milwaukee Ward 215 
+65    # City of Milwaukee Ward 216 
+164    #   City of Milwaukee Ward 217 
+155    #   City of Milwaukee Ward 218 
+111    #   City of Milwaukee Ward 219 
+95    # City of Milwaukee Ward 220 
+219    #   City of Milwaukee Ward 221 
+128    #   City of Milwaukee Ward 222 
+156    #   City of Milwaukee Ward 223 
+107    #   City of Milwaukee Ward 224 
+101    #   City of Milwaukee Ward 225 
+42    # City of Milwaukee Ward 226 
+107    #   City of Milwaukee Ward 227 
+67    # City of Milwaukee Ward 228 
+62    # City of Milwaukee Ward 229 
+110    #   City of Milwaukee Ward 230 
+62    # City of Milwaukee Ward 231 
+43    # City of Milwaukee Ward 232 
+32    # City of Milwaukee Ward 233 
+114    #   City of Milwaukee Ward 234 
+339    #   City of Milwaukee Ward 235 
+75    # City of Milwaukee Ward 236 
+91    # City of Milwaukee Ward 237 
+113    #   City of Milwaukee Ward 238 
+88    # City of Milwaukee Ward 239 
+97    # City of Milwaukee Ward 240 
+227    #   City of Milwaukee Ward 241 
+159    #   City of Milwaukee Ward 242 
+215    #   City of Milwaukee Ward 243 
+152    #   City of Milwaukee Ward 244 
+135    #   City of Milwaukee Ward 245 
+206    #   City of Milwaukee Ward 246 
+142    #   City of Milwaukee Ward 247 
+229    #   City of Milwaukee Ward 248 
+79    # City of Milwaukee Ward 249 
+60    # City of Milwaukee Ward 250 
+53    # City of Milwaukee Ward 251 
+108    #   City of Milwaukee Ward 252 
+58    # City of Milwaukee Ward 253 
+47    # City of Milwaukee Ward 254 
+52    # City of Milwaukee Ward 255 
+51    # City of Milwaukee Ward 256 
+124    #   City of Milwaukee Ward 257 
+169    #   City of Milwaukee Ward 258 
+123    #   City of Milwaukee Ward 259 
+108    #   City of Milwaukee Ward 260 
+174    #   City of Milwaukee Ward 261 
+388    #   City of Milwaukee Ward 262 
+199    #   City of Milwaukee Ward 263 
+485    #   City of Milwaukee Ward 264 
+267    #   City of Milwaukee Ward 265 
+360    #   City of Milwaukee Ward 266 
+285    #   City of Milwaukee Ward 267 
+634    #   City of Milwaukee Ward 268 
+388    #   City of Milwaukee Ward 269 
+376    #   City of Milwaukee Ward 270 
+634    #   City of Milwaukee Ward 271 
+567    #   City of Milwaukee Ward 272 
+290    #   City of Milwaukee Ward 273 
+297    #   City of Milwaukee Ward 274 
+633    #   City of Milwaukee Ward 275 
+600    #   City of Milwaukee Ward 276 
+602    #   City of Milwaukee Ward 277 
+359    #   City of Milwaukee Ward 278 
+445    #   City of Milwaukee Ward 279 
+481    #   City of Milwaukee Ward 280 
+265    #   City of Milwaukee Ward 281 
+111    #   City of Milwaukee Ward 282 
+252    #   City of Milwaukee Ward 283 
+197    #   City of Milwaukee Ward 284 
+50    # City of Milwaukee Ward 285 
+136    #   City of Milwaukee Ward 286 
+141    #   City of Milwaukee Ward 287 
+386    #   City of Milwaukee Ward 288 
+186    #   City of Milwaukee Ward 289 
+141    #   City of Milwaukee Ward 290 
+160    #   City of Milwaukee Ward 291 
+198    #   City of Milwaukee Ward 292 
+277    #   City of Milwaukee Ward 293 
+191    #   City of Milwaukee Ward 294 
+191    #   City of Milwaukee Ward 295 
+288    #   City of Milwaukee Ward 296 
+197    #   City of Milwaukee Ward 297 
+162    #   City of Milwaukee Ward 298 
+249    #   City of Milwaukee Ward 299 
+224    #   City of Milwaukee Ward 300 
+361    #   City of Milwaukee Ward 301 
+309    #   City of Milwaukee Ward 302 
+429    #   City of Milwaukee Ward 303 
+379    #   City of Milwaukee Ward 304 
+344    #   City of Milwaukee Ward 305 
+215    #   City of Milwaukee Ward 306 
+302    #   City of Milwaukee Ward 307 
+235    #   City of Milwaukee Ward 308 
+453    #   City of Milwaukee Ward 309 
+104    #   City of Milwaukee Ward 310 
+277    #   City of Milwaukee Ward 311 
+389    #   City of Milwaukee Ward 312 
+762    #   City of Milwaukee Ward 313 
+320    #   City of Milwaukee Ward 314 
+436    #   City of Milwaukee Ward 315 
+370    #   City of Milwaukee Ward 316 
+352    #   City of Milwaukee Ward 317 
+0    #  City of Milwaukee Ward 318 
+0    #  City of Milwaukee Ward 319 
+4    #  City of Milwaukee Ward 320 
+29    # City of Milwaukee Ward 321 
+23    # City of Milwaukee Ward 322 
+58    # City of Milwaukee Ward 323 
+26    # City of Milwaukee Ward 324 
+74    # City of Milwaukee Ward 325 
+3    #  City of Milwaukee Ward 326 
+0    #  City of Milwaukee Ward 327 
+323    #   Village of Bayside Wards 1,3  
+24    # Village of Bayside Wards 1S,3S 
+327    #   Village of Bayside Wards 2,4  
+192    #   Village of Bayside Ward 5 
+553    #   V. Brown Deer Wards 1,2 
+772    #   V. Brown Deer Wards 3,4 
+686    #   V. Brown Deer Wards 5,6 
+729    #   City of Cudahy Wards 1,2,3 
+797    #   City of Cudahy Wards 4,5,6 
+715    #   City of Cudahy Wards 7,8,9 
+936    #   City of Cudahy Wards 10,11,12  
+1050    #  City of Cudahy Wards 13,14,15  
+641    #   V. Fox Point Wards 1,2,3,4 
+788    #   V. Fox Point Wards 5,6,7,8,9  
+1    #  City of Franklin Ward 1 
+878    #   City of Franklin Ward 2 
+823    #   City of Franklin Ward 3 
+470    #   City of Franklin Ward 4 
+369    #   City of Franklin Ward 5 
+582    #   City of Franklin Ward 6 
+777    #   City of Franklin Ward 7 
+428    #   City of Franklin Ward 8 
+469    #   City of Franklin Ward 9 
+197    #   City of Franklin Ward 10 
+653    #   City of Franklin Ward 11 
+502    #   City of Franklin Ward 12 
+635    #   City of Franklin Ward 13 
+528    #   City of Franklin Ward 14 
+330    #   City of Franklin Ward 15A 
+207    #   City of Franklin Ward 15B 
+692    #   City of Franklin Ward 16 
+350    #   City of Franklin Ward 17 
+256    #   City of Franklin Ward 18 
+712    #   City of Franklin Ward 19 
+339    #   City of Franklin Ward 20 
+127    #   City of Franklin Ward 21 
+396    #   City of Franklin Ward 22A 
+386    #   City of Franklin Ward 22B 
+763    #   City of Franklin Ward 23 
+347    #   City of Glendale Wards 1,7 
+212    #   City of Glendale Wards 2,8S 
+172    #   City of Glendale Ward 8 
+459    #   City of Glendale Wards 3,9 
+468    #   City of Glendale Wards 4,10 
+357    #   City of Glendale Wards 5,11 (D 
+41    # City of Glendale Ward 11S (Dis 
+270    #   City of Glendale Wards 6,12 
+916    #   V. Greendale Wards 1,2 
+904    #   V. Greendale Wards 3,4 
+845    #   V. Greendale Wards 5,6 
+824    #   V. Greendale Wards 7,8 
+1024    #  V. Greendale Wards 9,10 
+438    #   City of Greenfield Ward 1 
+447    #   City of Greenfield Ward 2 
+343    #   City of Greenfield Ward 3 
+306    #   City of Greenfield Ward 4 
+439    #   City of Greenfield Ward 5 
+530    #   City of Greenfield Ward 6 
+643    #   City of Greenfield Ward 7 
+504    #   City of Greenfield Ward 8 
+499    #   City of Greenfield Ward 9 
+518    #   City of Greenfield Ward 10 
+689    #   City of Greenfield Ward 11 
+767    #   City of Greenfield Ward 12 
+317    #   City of Greenfield Ward 13 
+428    #   City of Greenfield Ward 14 
+467    #   City of Greenfield Ward 15 
+200    #   City of Greenfield Ward 16 
+346    #   City of Greenfield Ward 17 
+448    #   City of Greenfield Ward 18 
+525    #   City of Greenfield Ward 19 
+665    #   City of Greenfield Ward 20 
+372    #   City of Greenfield Ward 21 
+878    #   V. Hales Corners Wards 1,2,3  
+829    #   V. Hales Corners Wards 4,5,6  
+772    #   V. Hales Corners Wards 7,8,9  
+1744    #  C. Oak Creek Wards 1,2,3 
+1607    #  C. Oak Creek Wards 4,5,6 
+1758    #  C. Oak Creek Wards 7,8,9 
+2090    #  C. Oak Creek Wards 10,11,12 
+2056    #  C. Oak Creek Wards 13,14,15 
+1307    #  C. Oak Creek Wards 16,17,18,19 
+535    #   V. River Hills Wards 1,2,3 
+688    #   C. St. Francis Wards 1,2,3,4  
+742    #   C. St. Francis Wards 5,6,7,8  
+807    #   C. St. Francis Wards 9,10,11,1 
+606    #   V. Shorewood Wards 1,2,3,4 
+435    #   V. Shorewood Wards 5,6,7,8 
+419    #   V. Shorewood Wards 9,10,11,12  
+1252    #  C. So. Milw. Wards 1,2,3,4 
+1179    #  C. So. Milw. Wards 5,6,7,8 
+1570    #  C. So. Milw. Wards 9,10,11,12  
+1345    #  C. So. Milw. Wards 13,14,15,16 
+352    #   City of Wauwatosa Ward 1 
+298    #   City of Wauwatosa Ward 2 
+401    #   City of Wauwatosa Ward 3 
+589    #   City of Wauwatosa Ward 4 
+333    #   City of Wauwatosa Ward 5 
+267    #   City of Wauwatosa Ward 6 
+509    #   City of Wauwatosa Ward 7 
+276    #   City of Wauwatosa Ward 8 
+631    #   City of Wauwatosa Ward 9 
+379    #   City of Wauwatosa Ward 10 
+370    #   City of Wauwatosa Ward 11 
+540    #   City of Wauwatosa Ward 12 
+175    #   City of Wauwatosa Ward 13 
+333    #   City of Wauwatosa Ward 14 
+325    #   City of Wauwatosa Ward 15 
+489    #   City of Wauwatosa Ward 16 
+527    #   City of Wauwatosa Ward 17 
+369    #   City of Wauwatosa Ward 18 
+455    #   City of Wauwatosa Ward 19 
+686    #   City of Wauwatosa Ward 20 
+459    #   City of Wauwatosa Ward 21 
+484    #   City of Wauwatosa Ward 22 
+519    #   City of Wauwatosa Ward 23 
+338    #   City of Wauwatosa Ward 24 
+302    #   City of West Allis Ward 1 
+365    #   City of West Allis Ward 2 
+280    #   City of West Allis Ward 3 
+488    #   City of West Allis Ward 4 
+401    #   City of West Allis Ward 5 
+399    #   City of West Allis Ward 6 
+470    #   City of West Allis Ward 7 
+337    #   City of West Allis Ward 8 
+523    #   City of West Allis Ward 9 
+414    #   City of West Allis Ward 10 
+679    #   City of West Allis Ward 11 
+663    #   City of West Allis Ward 12 
+829    #   City of West Allis Ward 13 
+355    #   City of West Allis Ward 14 
+433    #   City of West Allis Ward 15 
+473    #   City of West Allis Ward 16 
+641    #   City of West Allis Ward 17 
+771    #   City of West Allis Ward 18 
+649    #   City of West Allis Ward 19 
+453    #   City of West Allis Ward 20 
+572    #   City of West Allis Ward 21 
+410    #   City of West Allis Ward 22 
+730    #   City of West Allis Ward 23 
+357    #   City of West Allis Ward 24 
+686    #   City of West Allis Ward 25 
+249    #   V. West Milwaukee Wards 1,2,5  
+290    #   V. West Milwaukee Wards 3,4,6  
+550    #   V. Whitefish Bay Wards 1,2 
+437    #   V. Whitefish Bay Wards 3,4 
+501    #   V. Whitefish Bay Wards 5,6 
+208    #   V. Whitefish Bay Ward 7 
+483    #   V. Whitefish Bay Wards 8,10 
+378    #   V. Whitefish Bay Wards 9,11 
+310    #   V. Whitefish Bay Ward 12 
