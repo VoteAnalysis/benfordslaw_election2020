@@ -26,6 +26,8 @@ def getBenfordsLawSample(numItems):
 
 dataDirNames = []
 with open('index.html', 'w') as f:
+   f.write(open("templates/explanation.html").read())
+
    for dataDirName in next(os.walk(SRCDATA))[1]:
       dataDirNames += [dataDirName]
       basePath = os.path.join(SRCDATA, dataDirName)
@@ -50,8 +52,9 @@ with open('index.html', 'w') as f:
          y_pos = np.arange(N)
 
          votes = getDataset(name, basePath)
+         numVotes = len(votes)
 
-         seriesValsBenford = getBenfordsLawSample(len(votes))
+         seriesValsBenford = getBenfordsLawSample(numVotes)
          plot.bar(y_pos - width/2, seriesValsBenford, width, color='gray')
          plot.xaxis.set_ticks([i - 1 for i in LEADINGDIGITS])
          plot.set_xticklabels([str(x) for x in LEADINGDIGITS])
@@ -67,6 +70,8 @@ with open('index.html', 'w') as f:
       plt.savefig(imagePath, dpi=150)
 
       f.write(open(readMePath).read().replace('\n', '<br/>'))
+
+      f.write(f'There are a total of {numVotes} vote subtotals represented<br/>')
       f.write('\n')
       f.write(f'<img src="{imagePath}" />')
 
