@@ -1,0 +1,115 @@
+0   # Alaiedon Township Precinct 1
+0   # Alaiedon Township Precinct 2
+0   # Alaiedon Township Precinct 3
+0   # Aurelius Township Precinct 1
+0   # Aurelius Township Precinct 2
+0   # Bunker Hill Township Precinct 1
+0   # City of East Lansing Precinct 1
+0   # City of East Lansing Precinct 2
+0   # City of East Lansing Precinct 3
+0   # City of East Lansing Precinct 4
+0   # City of East Lansing Precinct 5
+0   # City of East Lansing Precinct 6
+0   # City of East Lansing Precinct 7
+0   # City of East Lansing Precinct 8
+0   # City of East Lansing Precinct 9
+0   # City of East Lansing Precinct 10
+0   # City of East Lansing Precinct 11
+0   # City of East Lansing Precinct 12
+0   # City of East Lansing Precinct 13
+0   # City of East Lansing Precinct 14
+0   # City of East Lansing Precinct 15
+0   # City of East Lansing Precinct 16
+0   # City of Lansing Ward 1 Precinct 1
+0   # City of Lansing Ward 1 Precinct 2
+0   # City of Lansing Ward 1 Precinct 3
+0   # City of Lansing Ward 1 Precinct 4
+0   # City of Lansing Ward 1 Precinct 5
+0   # City of Lansing Ward 1 Precinct 6
+0   # City of Lansing Ward 1 Precinct 7
+0   # City of Lansing Ward 1 Precinct 8
+0   # City of Lansing Ward 1 Precinct 9
+0   # City of Lansing Ward 1 Precinct 10
+0   # City of Lansing Ward 1 Precinct 45
+0   # City of Lansing Ward 2 Precinct 11
+0   # City of Lansing Ward 2 Precinct 12
+0   # City of Lansing Ward 2 Precinct 13
+0   # City of Lansing Ward 2 Precinct 14
+0   # City of Lansing Ward 2 Precinct 15
+0   # City of Lansing Ward 2 Precinct 16
+0   # City of Lansing Ward 2 Precinct 17
+0   # City of Lansing Ward 2 Precinct 18
+0   # City of Lansing Ward 2 Precinct 19
+0   # City of Lansing Ward 2 Precinct 20
+0   # City of Lansing Ward 2 Precinct 21
+0   # City of Lansing Ward 3 Precinct 24
+0   # City of Lansing Ward 3 Precinct 25
+0   # City of Lansing Ward 3 Precinct 26
+0   # City of Lansing Ward 3 Precinct 27
+0   # City of Lansing Ward 3 Precinct 28
+0   # City of Lansing Ward 3 Precinct 29
+0   # City of Lansing Ward 3 Precinct 30
+0   # City of Lansing Ward 3 Precinct 31
+0   # City of Lansing Ward 4 Precinct 32
+0   # City of Lansing Ward 4 Precinct 33
+0   # City of Lansing Ward 4 Precinct 34
+0   # City of Lansing Ward 4 Precinct 35
+0   # City of Lansing Ward 4 Precinct 36
+0   # City of Lansing Ward 4 Precinct 37
+0   # City of Lansing Ward 4 Precinct 38
+0   # City of Lansing Ward 4 Precinct 39
+0   # City of Lansing Ward 4 Precinct 40
+0   # City of Lansing Ward 4 Precinct 41
+0   # City of Lansing Ward 4 Precinct 42
+0   # City of Lansing Ward 4 Precinct 43
+0   # City of Lansing Ward 4 Precinct 44
+0   # City of Leslie Precinct 1
+0   # City of Mason Precinct 1
+0   # City of Mason Precinct 2
+0   # City of Mason Precinct 3
+0   # City of Williamston Precinct 1
+0   # Delhi Charter Township Precinct 1
+0   # Delhi Charter Township Precinct 2
+0   # Delhi Charter Township Precinct 3
+0   # Delhi Charter Township Precinct 4
+0   # Delhi Charter Township Precinct 5
+0   # Delhi Charter Township Precinct 6
+0   # Delhi Charter Township Precinct 7
+0   # Delhi Charter Township Precinct 8
+0   # Delhi Charter Township Precinct 9
+0   # Ingham Township Precinct 1
+0   # Lansing Charter Township Precinct 1
+0   # Lansing Charter Township Precinct 2
+0   # Lansing Charter Township Precinct 3
+0   # Lansing Charter Township Precinct 4
+0   # Lansing Charter Township Precinct 6
+0   # Leroy Township Precinct 1
+0   # Leslie Township Precinct 1
+0   # Locke Township Precinct 1
+0   # Meridian Charter Township Precinct 1
+0   # Meridian Charter Township Precinct 2
+0   # Meridian Charter Township Precinct 3
+0   # Meridian Charter Township Precinct 4
+0   # Meridian Charter Township Precinct 5
+0   # Meridian Charter Township Precinct 6
+0   # Meridian Charter Township Precinct 7
+0   # Meridian Charter Township Precinct 8
+0   # Meridian Charter Township Precinct 9
+0   # Meridian Charter Township Precinct 10
+0   # Meridian Charter Township Precinct 11
+0   # Meridian Charter Township Precinct 12
+0   # Meridian Charter Township Precinct 13
+0   # Meridian Charter Township Precinct 14
+0   # Meridian Charter Township Precinct 15
+0   # Meridian Charter Township Precinct 17
+0   # Meridian Charter Township Precinct 18
+0   # Meridian Charter Township Precinct 19
+0   # Meridian Charter Township Precinct 20
+0   # Onondaga Township Precinct 1
+0   # Stockbridge Township Precinct 1
+0   # Stockbridge Township Precinct 2
+0   # Vevay Township Precinct 1
+0   # Wheatfield Township Precinct 1
+0   # White Oak Township Precinct 1
+0   # Williamstown Township Precinct 1
+0   # Williamstown Township Precinct 2

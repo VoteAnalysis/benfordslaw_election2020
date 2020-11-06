@@ -1,0 +1,21 @@
+426   # Calvin Township Precinct 1
+420   # City of Dowagiac Ward 1 Precinct 1
+396   # City of Dowagiac Ward 2 Precinct 2
+292   # City of Dowagiac Ward 3 Precinct 3
+537   # Howard Township Precinct 1
+556   # Howard Township Precinct 2
+450   # Jefferson Township Precinct 1
+741   # LaGrange Township Precinct 1
+427   # Marcellus Township Precinct 1
+346   # Mason Township Precinct 1
+596   # Milton Township Precinct 1
+228   # Newberg Township Precinct 1
+540   # Ontwa Township Precinct 1
+534   # Ontwa Township Precinct 2
+395   # Penn Township Precinct 1
+421   # Pokagon Township Precinct 1
+355   # Porter Township Precinct 1
+297   # Porter Township Precinct 2
+565   # Silver Creek Township Precinct 1
+194   # Volinia Township Precinct 1
+406   # Wayne Township Precinct 1

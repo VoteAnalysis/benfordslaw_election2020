@@ -1,0 +1,1116 @@
+0   # Charter Township of Brownstown Precinct 1
+0   # Charter Township of Brownstown Precinct 2
+0   # Charter Township of Brownstown Precinct 3
+0   # Charter Township of Brownstown Precinct 4
+0   # Charter Township of Brownstown Precinct 5
+0   # Charter Township of Brownstown Precinct 6
+0   # Charter Township of Brownstown Precinct 7
+0   # Charter Township of Brownstown Precinct 8
+0   # Charter Township of Brownstown Precinct 9
+0   # Charter Township of Brownstown Precinct 10
+0   # Charter Township of Brownstown Precinct 11
+0   # Charter Township of Brownstown Precinct 12
+0   # Charter Township of Canton Precinct 1
+0   # Charter Township of Canton Precinct 2
+0   # Charter Township of Canton Precinct 3
+0   # Charter Township of Canton Precinct 4
+0   # Charter Township of Canton Precinct 5
+0   # Charter Township of Canton Precinct 6
+0   # Charter Township of Canton Precinct 7
+0   # Charter Township of Canton Precinct 8
+0   # Charter Township of Canton Precinct 9
+0   # Charter Township of Canton Precinct 10
+0   # Charter Township of Canton Precinct 11
+0   # Charter Township of Canton Precinct 12
+0   # Charter Township of Canton Precinct 13
+0   # Charter Township of Canton Precinct 14
+0   # Charter Township of Canton Precinct 15
+0   # Charter Township of Canton Precinct 16
+0   # Charter Township of Canton Precinct 17
+0   # Charter Township of Canton Precinct 18
+0   # Charter Township of Canton Precinct 19
+0   # Charter Township of Canton Precinct 20
+0   # Charter Township of Canton Precinct 21
+0   # Charter Township of Canton Precinct 22
+0   # Charter Township of Canton Precinct 23
+0   # Charter Township of Canton Precinct 24
+0   # Charter Township of Canton Precinct 25
+0   # Charter Township of Canton Precinct 26
+0   # Charter Township of Canton Precinct 27
+0   # Charter Township of Canton Precinct 28
+0   # Charter Township of Canton Precinct 29
+0   # Charter Township of Canton Precinct 30
+0   # Charter Township of Canton Precinct 31
+0   # Charter Township of Canton Precinct 32
+0   # Charter Township of Canton Precinct 33
+0   # Charter Township of Canton Precinct 34
+0   # Charter Township of Canton Precinct 35
+0   # Charter Township of Canton Precinct 36
+0   # Charter Township of Canton Precinct 37
+0   # Charter Township of Canton Precinct 38
+0   # Charter Township of Canton Precinct 39
+0   # Charter Township of Canton Precinct 40
+0   # Charter Township of Huron Precinct 1
+0   # Charter Township of Huron Precinct 2
+0   # Charter Township of Huron Precinct 3
+0   # Charter Township of Huron Precinct 4
+0   # Charter Township of Huron Precinct 5
+0   # Charter Township of Huron Precinct 6
+0   # Charter Township of Northville Precinct 1
+0   # Charter Township of Northville Precinct 2
+0   # Charter Township of Northville Precinct 3
+0   # Charter Township of Northville Precinct 4
+0   # Charter Township of Northville Precinct 5
+0   # Charter Township of Northville Precinct 6
+0   # Charter Township of Northville Precinct 7
+0   # Charter Township of Northville Precinct 8
+0   # Charter Township of Northville Precinct 9
+0   # Charter Township of Northville Precinct 10
+0   # Charter Township of Northville Precinct 11
+0   # Charter Township of Northville Precinct 12
+0   # Charter Township of Plymouth Precinct 1
+0   # Charter Township of Plymouth Precinct 2
+0   # Charter Township of Plymouth Precinct 3
+0   # Charter Township of Plymouth Precinct 4
+0   # Charter Township of Plymouth Precinct 5
+0   # Charter Township of Plymouth Precinct 6
+0   # Charter Township of Plymouth Precinct 7
+0   # Charter Township of Plymouth Precinct 8
+0   # Charter Township of Plymouth Precinct 9
+0   # Charter Township of Plymouth Precinct 10
+0   # Charter Township of Plymouth Precinct 11
+0   # Charter Township of Plymouth Precinct 12
+0   # Charter Township of Redford Precinct 1
+0   # Charter Township of Redford Precinct 2
+0   # Charter Township of Redford Precinct 3
+0   # Charter Township of Redford Precinct 4
+0   # Charter Township of Redford Precinct 5
+0   # Charter Township of Redford Precinct 6
+0   # Charter Township of Redford Precinct 7
+0   # Charter Township of Redford Precinct 8
+0   # Charter Township of Redford Precinct 9
+0   # Charter Township of Redford Precinct 10
+0   # Charter Township of Redford Precinct 11
+0   # Charter Township of Redford Precinct 12
+0   # Charter Township of Redford Precinct 13
+0   # Charter Township of Redford Precinct 14
+0   # Charter Township of Redford Precinct 15
+0   # Charter Township of Redford Precinct 16
+0   # Charter Township of Redford Precinct 17
+0   # Charter Township of Redford Precinct 18
+0   # Charter Township of Redford Precinct 19
+0   # Charter Township of Redford Precinct 20
+0   # Charter Township of Van Buren Precinct 1
+0   # Charter Township of Van Buren Precinct 2
+0   # Charter Township of Van Buren Precinct 3
+0   # Charter Township of Van Buren Precinct 4
+0   # Charter Township of Van Buren Precinct 5
+0   # Charter Township of Van Buren Precinct 6
+0   # Charter Township of Van Buren Precinct 7
+0   # Charter Township of Van Buren Precinct 8
+0   # Charter Township of Van Buren Precinct 9
+0   # Charter Township of Van Buren Precinct 10
+0   # City of Allen Park Precinct 1
+0   # City of Allen Park Precinct 2
+0   # City of Allen Park Precinct 3
+0   # City of Allen Park Precinct 4
+0   # City of Allen Park Precinct 5
+0   # City of Allen Park Precinct 7
+0   # City of Allen Park Precinct 8
+0   # City of Allen Park Precinct 9
+0   # City of Allen Park Precinct 10
+0   # City of Allen Park Precinct 11
+0   # City of Allen Park Precinct 12
+0   # City of Allen Park Precinct 13
+0   # City of Allen Park Precinct 14
+0   # City of Allen Park Precinct 15
+0   # City of Allen Park Precinct 16
+0   # City of Belleville Precinct 1
+0   # City of Belleville Precinct 2
+0   # City of Dearborn Heights Precinct 1
+0   # City of Dearborn Heights Precinct 2
+0   # City of Dearborn Heights Precinct 3
+0   # City of Dearborn Heights Precinct 4
+0   # City of Dearborn Heights Precinct 5
+0   # City of Dearborn Heights Precinct 6
+0   # City of Dearborn Heights Precinct 7
+0   # City of Dearborn Heights Precinct 8
+0   # City of Dearborn Heights Precinct 9
+0   # City of Dearborn Heights Precinct 10
+0   # City of Dearborn Heights Precinct 11
+0   # City of Dearborn Heights Precinct 12
+0   # City of Dearborn Heights Precinct 13
+0   # City of Dearborn Heights Precinct 14
+0   # City of Dearborn Heights Precinct 15
+0   # City of Dearborn Heights Precinct 16
+0   # City of Dearborn Heights Precinct 17
+0   # City of Dearborn Heights Precinct 18
+0   # City of Dearborn Heights Precinct 19
+0   # City of Dearborn Heights Precinct 20
+0   # City of Dearborn Heights Precinct 21
+0   # City of Dearborn Heights Precinct 22
+0   # City of Dearborn Heights Precinct 23
+0   # City of Dearborn Heights Precinct 24
+0   # City of Dearborn Heights Precinct 25
+0   # City of Dearborn Heights Precinct 26
+0   # City of Dearborn Heights Precinct 27
+0   # City of Dearborn Precinct 1
+0   # City of Dearborn Precinct 2
+0   # City of Dearborn Precinct 3
+0   # City of Dearborn Precinct 4
+0   # City of Dearborn Precinct 5
+0   # City of Dearborn Precinct 6
+0   # City of Dearborn Precinct 7
+0   # City of Dearborn Precinct 8
+0   # City of Dearborn Precinct 9
+0   # City of Dearborn Precinct 10
+0   # City of Dearborn Precinct 11
+0   # City of Dearborn Precinct 12
+0   # City of Dearborn Precinct 13
+0   # City of Dearborn Precinct 15
+0   # City of Dearborn Precinct 16
+0   # City of Dearborn Precinct 17
+0   # City of Dearborn Precinct 18
+0   # City of Dearborn Precinct 19
+0   # City of Dearborn Precinct 20
+0   # City of Dearborn Precinct 21
+0   # City of Dearborn Precinct 22
+0   # City of Dearborn Precinct 23
+0   # City of Dearborn Precinct 24
+0   # City of Dearborn Precinct 25
+0   # City of Dearborn Precinct 26
+0   # City of Dearborn Precinct 27
+0   # City of Dearborn Precinct 28
+0   # City of Dearborn Precinct 29
+0   # City of Dearborn Precinct 30
+0   # City of Dearborn Precinct 31
+0   # City of Dearborn Precinct 32
+0   # City of Dearborn Precinct 33
+0   # City of Dearborn Precinct 34
+0   # City of Dearborn Precinct 35
+0   # City of Dearborn Precinct 36
+0   # City of Dearborn Precinct 37
+0   # City of Dearborn Precinct 38
+0   # City of Dearborn Precinct 40
+0   # City of Dearborn Precinct 41
+0   # City of Dearborn Precinct 42
+0   # City of Dearborn Precinct 43
+0   # City of Dearborn Precinct 44
+0   # City of Dearborn Precinct 45
+0   # City of Dearborn Precinct 46
+0   # City of Dearborn Precinct 47
+0   # City of Dearborn Precinct 48
+0   # City of Dearborn Precinct 49
+0   # City of Dearborn Precinct 50
+1,458   # City of Detroit AVCB 1
+1,852   # City of Detroit AVCB 2
+1,806   # City of Detroit AVCB 3
+1,776   # City of Detroit AVCB 4
+1,762   # City of Detroit AVCB 5
+2,393   # City of Detroit AVCB 6
+1,800   # City of Detroit AVCB 7
+1,652   # City of Detroit AVCB 8
+925   # City of Detroit AVCB 9
+904   # City of Detroit AVCB 10
+2,022   # City of Detroit AVCB 11
+1,472   # City of Detroit AVCB 12
+1,563   # City of Detroit AVCB 13
+1,709   # City of Detroit AVCB 14
+1,707   # City of Detroit AVCB 15
+2,023   # City of Detroit AVCB 16
+2,545   # City of Detroit AVCB 17
+2,027   # City of Detroit AVCB 18
+2,178   # City of Detroit AVCB 19
+2,171   # City of Detroit AVCB 20
+2,021   # City of Detroit AVCB 21
+2,337   # City of Detroit AVCB 22
+2,612   # City of Detroit AVCB 23
+2,736   # City of Detroit AVCB 24
+3,023   # City of Detroit AVCB 25
+3,166   # City of Detroit AVCB 26
+2,244   # City of Detroit AVCB 27
+2,222   # City of Detroit AVCB 28
+2,079   # City of Detroit AVCB 29
+2,036   # City of Detroit AVCB 30
+2,232   # City of Detroit AVCB 31
+2,121   # City of Detroit AVCB 32
+0   # City of Detroit AVCB 33
+1,710   # City of Detroit AVCB 34
+1,686   # City of Detroit AVCB 35
+2,762   # City of Detroit AVCB 36
+2,107   # City of Detroit AVCB 37
+2,613   # City of Detroit AVCB 38
+2,180   # City of Detroit AVCB 39
+2,081   # City of Detroit AVCB 40
+1,722   # City of Detroit AVCB 41
+1,135   # City of Detroit AVCB 42
+1,614   # City of Detroit AVCB 43
+1,510   # City of Detroit AVCB 44
+1,354   # City of Detroit AVCB 45
+1,426   # City of Detroit AVCB 46
+1,145   # City of Detroit AVCB 47
+1,043   # City of Detroit AVCB 48
+958   # City of Detroit AVCB 49
+1,665   # City of Detroit AVCB 50
+1,857   # City of Detroit AVCB 51
+1,958   # City of Detroit AVCB 52
+1,109   # City of Detroit AVCB 53
+960   # City of Detroit AVCB 54
+2,275   # City of Detroit AVCB 55
+1,416   # City of Detroit AVCB 56
+0   # City of Detroit AVCB 57
+0   # City of Detroit AVCB 58
+988   # City of Detroit AVCB 59
+1,290   # City of Detroit AVCB 60
+555   # City of Detroit AVCB 61
+2,143   # City of Detroit AVCB 62
+1,856   # City of Detroit AVCB 63
+1,747   # City of Detroit AVCB 64
+2,044   # City of Detroit AVCB 65
+1,644   # City of Detroit AVCB 66
+1,598   # City of Detroit AVCB 67
+1,233   # City of Detroit AVCB 68
+1,061   # City of Detroit AVCB 69
+884   # City of Detroit AVCB 70
+445   # City of Detroit AVCB 71
+1,490   # City of Detroit AVCB 72
+1,641   # City of Detroit AVCB 73
+1,264   # City of Detroit AVCB 74
+1,995   # City of Detroit AVCB 75
+570   # City of Detroit AVCB 76
+1,809   # City of Detroit AVCB 77
+1,678   # City of Detroit AVCB 78
+1,202   # City of Detroit AVCB 79
+701   # City of Detroit AVCB 80
+977   # City of Detroit AVCB 81
+801   # City of Detroit AVCB 82
+1,035   # City of Detroit AVCB 83
+966   # City of Detroit AVCB 84
+658   # City of Detroit AVCB 85
+1,613   # City of Detroit AVCB 86
+1,338   # City of Detroit AVCB 87
+1,930   # City of Detroit AVCB 88
+2,092   # City of Detroit AVCB 89
+432   # City of Detroit AVCB 90
+508   # City of Detroit AVCB 91
+879   # City of Detroit AVCB 92
+947   # City of Detroit AVCB 93
+1,385   # City of Detroit AVCB 94
+1,690   # City of Detroit AVCB 95
+949   # City of Detroit AVCB 96
+327   # City of Detroit AVCB 97
+353   # City of Detroit AVCB 98
+364   # City of Detroit AVCB 99
+137   # City of Detroit AVCB 100
+198   # City of Detroit AVCB 101
+357   # City of Detroit AVCB 102
+190   # City of Detroit AVCB 103
+284   # City of Detroit AVCB 104
+6   # City of Detroit AVCB 105
+12   # City of Detroit AVCB 106
+169   # City of Detroit AVCB 107
+341   # City of Detroit AVCB 108
+406   # City of Detroit AVCB 109
+200   # City of Detroit AVCB 110
+48   # City of Detroit AVCB 111
+338   # City of Detroit AVCB 112
+3   # City of Detroit AVCB 113
+317   # City of Detroit AVCB 114
+64   # City of Detroit AVCB 115
+321   # City of Detroit AVCB 116
+443   # City of Detroit AVCB 117
+23   # City of Detroit AVCB 118
+156   # City of Detroit AVCB 119
+626   # City of Detroit AVCB 120
+241   # City of Detroit AVCB 121
+469   # City of Detroit AVCB 122
+233   # City of Detroit AVCB 123
+283   # City of Detroit AVCB 124
+7   # City of Detroit AVCB 125
+66   # City of Detroit AVCB 126
+4   # City of Detroit AVCB 127
+140   # City of Detroit AVCB 128
+16   # City of Detroit AVCB 129
+263   # City of Detroit AVCB 130
+136   # City of Detroit AVCB 131
+112   # City of Detroit AVCB 132
+308   # City of Detroit AVCB 133
+344   # City of Detroit AVCB 134
+106   # City of Detroit Precinct 1
+146   # City of Detroit Precinct 2
+164   # City of Detroit Precinct 3
+115   # City of Detroit Precinct 4
+97   # City of Detroit Precinct 5
+188   # City of Detroit Precinct 6
+184   # City of Detroit Precinct 7
+191   # City of Detroit Precinct 8
+85   # City of Detroit Precinct 9
+142   # City of Detroit Precinct 10
+21   # City of Detroit Precinct 11
+155   # City of Detroit Precinct 12
+106   # City of Detroit Precinct 13
+145   # City of Detroit Precinct 14
+183   # City of Detroit Precinct 15
+163   # City of Detroit Precinct 16
+172   # City of Detroit Precinct 17
+302   # City of Detroit Precinct 18
+163   # City of Detroit Precinct 19
+311   # City of Detroit Precinct 20
+163   # City of Detroit Precinct 21
+167   # City of Detroit Precinct 22
+197   # City of Detroit Precinct 23
+102   # City of Detroit Precinct 24
+190   # City of Detroit Precinct 25
+240   # City of Detroit Precinct 26
+142   # City of Detroit Precinct 27
+21   # City of Detroit Precinct 28
+95   # City of Detroit Precinct 29
+112   # City of Detroit Precinct 30
+236   # City of Detroit Precinct 31
+128   # City of Detroit Precinct 32
+205   # City of Detroit Precinct 33
+238   # City of Detroit Precinct 34
+110   # City of Detroit Precinct 35
+52   # City of Detroit Precinct 36
+226   # City of Detroit Precinct 37
+185   # City of Detroit Precinct 38
+233   # City of Detroit Precinct 39
+177   # City of Detroit Precinct 40
+142   # City of Detroit Precinct 41
+113   # City of Detroit Precinct 42
+264   # City of Detroit Precinct 43
+186   # City of Detroit Precinct 44
+181   # City of Detroit Precinct 45
+69   # City of Detroit Precinct 46
+194   # City of Detroit Precinct 47
+39   # City of Detroit Precinct 48
+124   # City of Detroit Precinct 49
+119   # City of Detroit Precinct 50
+171   # City of Detroit Precinct 51
+166   # City of Detroit Precinct 52
+190   # City of Detroit Precinct 53
+93   # City of Detroit Precinct 54
+165   # City of Detroit Precinct 55
+156   # City of Detroit Precinct 56
+110   # City of Detroit Precinct 57
+83   # City of Detroit Precinct 58
+140   # City of Detroit Precinct 59
+183   # City of Detroit Precinct 60
+114   # City of Detroit Precinct 61
+63   # City of Detroit Precinct 62
+276   # City of Detroit Precinct 63
+126   # City of Detroit Precinct 64
+180   # City of Detroit Precinct 65
+188   # City of Detroit Precinct 66
+121   # City of Detroit Precinct 67
+245   # City of Detroit Precinct 68
+178   # City of Detroit Precinct 69
+146   # City of Detroit Precinct 70
+193   # City of Detroit Precinct 71
+177   # City of Detroit Precinct 72
+157   # City of Detroit Precinct 73
+160   # City of Detroit Precinct 74
+163   # City of Detroit Precinct 75
+56   # City of Detroit Precinct 76
+69   # City of Detroit Precinct 77
+53   # City of Detroit Precinct 78
+143   # City of Detroit Precinct 79
+180   # City of Detroit Precinct 80
+296   # City of Detroit Precinct 81
+210   # City of Detroit Precinct 82
+292   # City of Detroit Precinct 83
+308   # City of Detroit Precinct 84
+172   # City of Detroit Precinct 85
+180   # City of Detroit Precinct 86
+16   # City of Detroit Precinct 87
+167   # City of Detroit Precinct 88
+101   # City of Detroit Precinct 89
+0   # City of Detroit Precinct 90
+255   # City of Detroit Precinct 91
+197   # City of Detroit Precinct 92
+112   # City of Detroit Precinct 93
+218   # City of Detroit Precinct 94
+194   # City of Detroit Precinct 95
+127   # City of Detroit Precinct 96
+90   # City of Detroit Precinct 97
+163   # City of Detroit Precinct 98
+52   # City of Detroit Precinct 99
+67   # City of Detroit Precinct 100
+9   # City of Detroit Precinct 101
+120   # City of Detroit Precinct 102
+107   # City of Detroit Precinct 103
+60   # City of Detroit Precinct 104
+75   # City of Detroit Precinct 105
+148   # City of Detroit Precinct 106
+75   # City of Detroit Precinct 107
+178   # City of Detroit Precinct 108
+0   # City of Detroit Precinct 109
+133   # City of Detroit Precinct 110
+169   # City of Detroit Precinct 111
+114   # City of Detroit Precinct 112
+103   # City of Detroit Precinct 113
+113   # City of Detroit Precinct 114
+227   # City of Detroit Precinct 115
+152   # City of Detroit Precinct 116
+76   # City of Detroit Precinct 117
+155   # City of Detroit Precinct 118
+92   # City of Detroit Precinct 119
+122   # City of Detroit Precinct 120
+124   # City of Detroit Precinct 121
+74   # City of Detroit Precinct 122
+158   # City of Detroit Precinct 123
+128   # City of Detroit Precinct 124
+89   # City of Detroit Precinct 125
+165   # City of Detroit Precinct 126
+95   # City of Detroit Precinct 127
+155   # City of Detroit Precinct 128
+117   # City of Detroit Precinct 129
+109   # City of Detroit Precinct 130
+158   # City of Detroit Precinct 131
+144   # City of Detroit Precinct 132
+145   # City of Detroit Precinct 133
+129   # City of Detroit Precinct 134
+129   # City of Detroit Precinct 135
+246   # City of Detroit Precinct 136
+92   # City of Detroit Precinct 137
+80   # City of Detroit Precinct 138
+170   # City of Detroit Precinct 139
+86   # City of Detroit Precinct 140
+191   # City of Detroit Precinct 141
+101   # City of Detroit Precinct 142
+161   # City of Detroit Precinct 143
+174   # City of Detroit Precinct 144
+116   # City of Detroit Precinct 145
+133   # City of Detroit Precinct 146
+264   # City of Detroit Precinct 147
+0   # City of Detroit Precinct 148
+159   # City of Detroit Precinct 149
+147   # City of Detroit Precinct 150
+147   # City of Detroit Precinct 151
+75   # City of Detroit Precinct 152
+62   # City of Detroit Precinct 153
+47   # City of Detroit Precinct 154
+37   # City of Detroit Precinct 155
+202   # City of Detroit Precinct 156
+168   # City of Detroit Precinct 157
+225   # City of Detroit Precinct 158
+124   # City of Detroit Precinct 159
+160   # City of Detroit Precinct 160
+185   # City of Detroit Precinct 161
+59   # City of Detroit Precinct 162
+157   # City of Detroit Precinct 163
+201   # City of Detroit Precinct 164
+89   # City of Detroit Precinct 165
+146   # City of Detroit Precinct 166
+198   # City of Detroit Precinct 167
+126   # City of Detroit Precinct 168
+89   # City of Detroit Precinct 169
+133   # City of Detroit Precinct 170
+69   # City of Detroit Precinct 171
+118   # City of Detroit Precinct 172
+46   # City of Detroit Precinct 173
+140   # City of Detroit Precinct 174
+112   # City of Detroit Precinct 175
+113   # City of Detroit Precinct 176
+222   # City of Detroit Precinct 177
+152   # City of Detroit Precinct 178
+224   # City of Detroit Precinct 179
+68   # City of Detroit Precinct 180
+69   # City of Detroit Precinct 181
+272   # City of Detroit Precinct 182
+141   # City of Detroit Precinct 183
+228   # City of Detroit Precinct 184
+79   # City of Detroit Precinct 185
+82   # City of Detroit Precinct 186
+173   # City of Detroit Precinct 187
+147   # City of Detroit Precinct 188
+154   # City of Detroit Precinct 189
+177   # City of Detroit Precinct 190
+180   # City of Detroit Precinct 191
+166   # City of Detroit Precinct 192
+129   # City of Detroit Precinct 193
+138   # City of Detroit Precinct 194
+108   # City of Detroit Precinct 195
+127   # City of Detroit Precinct 196
+68   # City of Detroit Precinct 197
+62   # City of Detroit Precinct 198
+68   # City of Detroit Precinct 199
+133   # City of Detroit Precinct 200
+162   # City of Detroit Precinct 201
+101   # City of Detroit Precinct 202
+107   # City of Detroit Precinct 203
+182   # City of Detroit Precinct 204
+99   # City of Detroit Precinct 205
+124   # City of Detroit Precinct 206
+220   # City of Detroit Precinct 207
+145   # City of Detroit Precinct 208
+131   # City of Detroit Precinct 209
+123   # City of Detroit Precinct 210
+106   # City of Detroit Precinct 211
+164   # City of Detroit Precinct 212
+126   # City of Detroit Precinct 213
+181   # City of Detroit Precinct 214
+222   # City of Detroit Precinct 215
+67   # City of Detroit Precinct 216
+230   # City of Detroit Precinct 217
+99   # City of Detroit Precinct 218
+103   # City of Detroit Precinct 219
+159   # City of Detroit Precinct 220
+176   # City of Detroit Precinct 221
+86   # City of Detroit Precinct 222
+198   # City of Detroit Precinct 223
+77   # City of Detroit Precinct 224
+253   # City of Detroit Precinct 225
+104   # City of Detroit Precinct 226
+178   # City of Detroit Precinct 227
+140   # City of Detroit Precinct 228
+183   # City of Detroit Precinct 229
+193   # City of Detroit Precinct 230
+176   # City of Detroit Precinct 231
+216   # City of Detroit Precinct 232
+224   # City of Detroit Precinct 233
+170   # City of Detroit Precinct 234
+110   # City of Detroit Precinct 235
+219   # City of Detroit Precinct 236
+220   # City of Detroit Precinct 237
+156   # City of Detroit Precinct 238
+157   # City of Detroit Precinct 239
+159   # City of Detroit Precinct 240
+174   # City of Detroit Precinct 241
+199   # City of Detroit Precinct 242
+85   # City of Detroit Precinct 243
+186   # City of Detroit Precinct 244
+201   # City of Detroit Precinct 245
+201   # City of Detroit Precinct 246
+149   # City of Detroit Precinct 247
+112   # City of Detroit Precinct 248
+199   # City of Detroit Precinct 249
+216   # City of Detroit Precinct 250
+135   # City of Detroit Precinct 251
+122   # City of Detroit Precinct 252
+146   # City of Detroit Precinct 253
+220   # City of Detroit Precinct 254
+96   # City of Detroit Precinct 255
+160   # City of Detroit Precinct 256
+232   # City of Detroit Precinct 257
+197   # City of Detroit Precinct 258
+215   # City of Detroit Precinct 259
+145   # City of Detroit Precinct 260
+117   # City of Detroit Precinct 261
+121   # City of Detroit Precinct 262
+209   # City of Detroit Precinct 263
+155   # City of Detroit Precinct 264
+244   # City of Detroit Precinct 265
+85   # City of Detroit Precinct 266
+108   # City of Detroit Precinct 267
+121   # City of Detroit Precinct 268
+69   # City of Detroit Precinct 269
+53   # City of Detroit Precinct 270
+210   # City of Detroit Precinct 271
+93   # City of Detroit Precinct 272
+87   # City of Detroit Precinct 273
+123   # City of Detroit Precinct 274
+140   # City of Detroit Precinct 275
+275   # City of Detroit Precinct 276
+101   # City of Detroit Precinct 277
+153   # City of Detroit Precinct 278
+155   # City of Detroit Precinct 279
+187   # City of Detroit Precinct 280
+222   # City of Detroit Precinct 281
+218   # City of Detroit Precinct 282
+101   # City of Detroit Precinct 283
+158   # City of Detroit Precinct 284
+217   # City of Detroit Precinct 285
+209   # City of Detroit Precinct 286
+266   # City of Detroit Precinct 287
+231   # City of Detroit Precinct 288
+166   # City of Detroit Precinct 289
+134   # City of Detroit Precinct 290
+192   # City of Detroit Precinct 291
+200   # City of Detroit Precinct 292
+167   # City of Detroit Precinct 293
+196   # City of Detroit Precinct 294
+147   # City of Detroit Precinct 295
+148   # City of Detroit Precinct 296
+216   # City of Detroit Precinct 297
+266   # City of Detroit Precinct 298
+97   # City of Detroit Precinct 299
+152   # City of Detroit Precinct 300
+102   # City of Detroit Precinct 301
+119   # City of Detroit Precinct 302
+126   # City of Detroit Precinct 303
+101   # City of Detroit Precinct 304
+188   # City of Detroit Precinct 305
+264   # City of Detroit Precinct 306
+159   # City of Detroit Precinct 307
+179   # City of Detroit Precinct 308
+147   # City of Detroit Precinct 309
+144   # City of Detroit Precinct 310
+264   # City of Detroit Precinct 311
+253   # City of Detroit Precinct 312
+107   # City of Detroit Precinct 313
+150   # City of Detroit Precinct 314
+269   # City of Detroit Precinct 315
+204   # City of Detroit Precinct 316
+163   # City of Detroit Precinct 317
+121   # City of Detroit Precinct 318
+165   # City of Detroit Precinct 319
+142   # City of Detroit Precinct 320
+199   # City of Detroit Precinct 321
+64   # City of Detroit Precinct 322
+205   # City of Detroit Precinct 323
+166   # City of Detroit Precinct 324
+167   # City of Detroit Precinct 325
+117   # City of Detroit Precinct 326
+173   # City of Detroit Precinct 327
+192   # City of Detroit Precinct 328
+159   # City of Detroit Precinct 329
+350   # City of Detroit Precinct 330
+171   # City of Detroit Precinct 331
+151   # City of Detroit Precinct 332
+158   # City of Detroit Precinct 333
+152   # City of Detroit Precinct 334
+213   # City of Detroit Precinct 335
+207   # City of Detroit Precinct 336
+184   # City of Detroit Precinct 337
+221   # City of Detroit Precinct 338
+166   # City of Detroit Precinct 339
+132   # City of Detroit Precinct 340
+280   # City of Detroit Precinct 341
+232   # City of Detroit Precinct 342
+301   # City of Detroit Precinct 343
+260   # City of Detroit Precinct 344
+267   # City of Detroit Precinct 345
+197   # City of Detroit Precinct 346
+242   # City of Detroit Precinct 347
+146   # City of Detroit Precinct 348
+107   # City of Detroit Precinct 349
+55   # City of Detroit Precinct 350
+133   # City of Detroit Precinct 351
+272   # City of Detroit Precinct 352
+56   # City of Detroit Precinct 353
+178   # City of Detroit Precinct 354
+325   # City of Detroit Precinct 355
+212   # City of Detroit Precinct 356
+108   # City of Detroit Precinct 357
+132   # City of Detroit Precinct 358
+193   # City of Detroit Precinct 359
+200   # City of Detroit Precinct 360
+212   # City of Detroit Precinct 361
+101   # City of Detroit Precinct 362
+250   # City of Detroit Precinct 363
+97   # City of Detroit Precinct 364
+126   # City of Detroit Precinct 365
+129   # City of Detroit Precinct 366
+153   # City of Detroit Precinct 367
+179   # City of Detroit Precinct 368
+257   # City of Detroit Precinct 369
+151   # City of Detroit Precinct 370
+172   # City of Detroit Precinct 371
+87   # City of Detroit Precinct 372
+165   # City of Detroit Precinct 373
+186   # City of Detroit Precinct 374
+219   # City of Detroit Precinct 375
+178   # City of Detroit Precinct 376
+177   # City of Detroit Precinct 377
+180   # City of Detroit Precinct 378
+273   # City of Detroit Precinct 379
+154   # City of Detroit Precinct 380
+152   # City of Detroit Precinct 381
+102   # City of Detroit Precinct 382
+175   # City of Detroit Precinct 383
+239   # City of Detroit Precinct 384
+125   # City of Detroit Precinct 385
+219   # City of Detroit Precinct 386
+144   # City of Detroit Precinct 387
+88   # City of Detroit Precinct 388
+199   # City of Detroit Precinct 389
+83   # City of Detroit Precinct 390
+71   # City of Detroit Precinct 391
+165   # City of Detroit Precinct 392
+157   # City of Detroit Precinct 393
+164   # City of Detroit Precinct 394
+149   # City of Detroit Precinct 395
+112   # City of Detroit Precinct 396
+147   # City of Detroit Precinct 397
+193   # City of Detroit Precinct 398
+169   # City of Detroit Precinct 399
+155   # City of Detroit Precinct 400
+140   # City of Detroit Precinct 401
+128   # City of Detroit Precinct 402
+184   # City of Detroit Precinct 403
+126   # City of Detroit Precinct 404
+192   # City of Detroit Precinct 405
+118   # City of Detroit Precinct 406
+105   # City of Detroit Precinct 407
+201   # City of Detroit Precinct 408
+160   # City of Detroit Precinct 409
+202   # City of Detroit Precinct 410
+112   # City of Detroit Precinct 411
+92   # City of Detroit Precinct 412
+292   # City of Detroit Precinct 413
+118   # City of Detroit Precinct 414
+195   # City of Detroit Precinct 415
+120   # City of Detroit Precinct 416
+115   # City of Detroit Precinct 417
+202   # City of Detroit Precinct 418
+104   # City of Detroit Precinct 419
+122   # City of Detroit Precinct 420
+113   # City of Detroit Precinct 421
+187   # City of Detroit Precinct 422
+160   # City of Detroit Precinct 423
+224   # City of Detroit Precinct 424
+271   # City of Detroit Precinct 425
+88   # City of Detroit Precinct 426
+182   # City of Detroit Precinct 427
+243   # City of Detroit Precinct 428
+141   # City of Detroit Precinct 429
+82   # City of Detroit Precinct 430
+135   # City of Detroit Precinct 431
+159   # City of Detroit Precinct 432
+117   # City of Detroit Precinct 433
+119   # City of Detroit Precinct 434
+68   # City of Detroit Precinct 435
+142   # City of Detroit Precinct 436
+153   # City of Detroit Precinct 437
+104   # City of Detroit Precinct 438
+113   # City of Detroit Precinct 439
+40   # City of Detroit Precinct 440
+4   # City of Detroit Precinct 441
+78   # City of Detroit Precinct 442
+14   # City of Detroit Precinct 443
+111   # City of Detroit Precinct 444
+95   # City of Detroit Precinct 445
+121   # City of Detroit Precinct 446
+210   # City of Detroit Precinct 447
+104   # City of Detroit Precinct 448
+174   # City of Detroit Precinct 449
+7   # City of Detroit Precinct 450
+89   # City of Detroit Precinct 451
+101   # City of Detroit Precinct 452
+94   # City of Detroit Precinct 453
+0   # City of Detroit Precinct 454
+78   # City of Detroit Precinct 455
+47   # City of Detroit Precinct 456
+100   # City of Detroit Precinct 457
+5   # City of Detroit Precinct 458
+0   # City of Detroit Precinct 459
+188   # City of Detroit Precinct 460
+154   # City of Detroit Precinct 461
+126   # City of Detroit Precinct 462
+81   # City of Detroit Precinct 463
+190   # City of Detroit Precinct 464
+50   # City of Detroit Precinct 465
+275   # City of Detroit Precinct 466
+102   # City of Detroit Precinct 467
+120   # City of Detroit Precinct 468
+90   # City of Detroit Precinct 469
+182   # City of Detroit Precinct 470
+7   # City of Detroit Precinct 471
+153   # City of Detroit Precinct 472
+181   # City of Detroit Precinct 473
+70   # City of Detroit Precinct 474
+152   # City of Detroit Precinct 475
+172   # City of Detroit Precinct 476
+231   # City of Detroit Precinct 477
+41   # City of Detroit Precinct 478
+100   # City of Detroit Precinct 479
+177   # City of Detroit Precinct 480
+237   # City of Detroit Precinct 481
+173   # City of Detroit Precinct 482
+207   # City of Detroit Precinct 483
+178   # City of Detroit Precinct 484
+214   # City of Detroit Precinct 485
+56   # City of Detroit Precinct 486
+69   # City of Detroit Precinct 487
+130   # City of Detroit Precinct 488
+72   # City of Detroit Precinct 489
+22   # City of Detroit Precinct 490
+182   # City of Detroit Precinct 491
+125   # City of Detroit Precinct 492
+96   # City of Detroit Precinct 493
+48   # City of Detroit Precinct 494
+91   # City of Detroit Precinct 495
+105   # City of Detroit Precinct 496
+163   # City of Detroit Precinct 497
+123   # City of Detroit Precinct 498
+103   # City of Detroit Precinct 499
+122   # City of Detroit Precinct 500
+152   # City of Detroit Precinct 501
+150   # City of Detroit Precinct 502
+22   # City of Detroit Precinct 503
+0   # City of Ecorse Precinct 1
+0   # City of Ecorse Precinct 2
+0   # City of Ecorse Precinct 3
+0   # City of Ecorse Precinct 4
+0   # City of Flat Rock Precinct 1
+0   # City of Flat Rock Precinct 2
+0   # City of Flat Rock Precinct 3
+0   # City of Flat Rock Precinct 4
+0   # City of Flat Rock Precinct 5
+0   # City of Garden City Precinct 1
+0   # City of Garden City Precinct 2
+0   # City of Garden City Precinct 3
+0   # City of Garden City Precinct 4
+0   # City of Garden City Precinct 5
+0   # City of Garden City Precinct 6
+0   # City of Garden City Precinct 7
+0   # City of Garden City Precinct 8
+0   # City of Garden City Precinct 9
+0   # City of Garden City Precinct 10
+0   # City of Gibraltar Precinct 1
+0   # City of Gibraltar Precinct 2
+0   # City of Grosse Pointe Farms Precinct 1
+0   # City of Grosse Pointe Farms Precinct 2
+0   # City of Grosse Pointe Farms Precinct 3
+0   # City of Grosse Pointe Farms Precinct 4
+0   # City of Grosse Pointe Farms Precinct 5
+0   # City of Grosse Pointe Park Precinct 1
+0   # City of Grosse Pointe Park Precinct 2
+0   # City of Grosse Pointe Park Precinct 3
+0   # City of Grosse Pointe Park Precinct 4
+0   # City of Grosse Pointe Park Precinct 5
+0   # City of Grosse Pointe Park Precinct 6
+0   # City of Grosse Pointe Park Precinct 7
+0   # City of Grosse Pointe Precinct 1
+0   # City of Grosse Pointe Precinct 2
+0   # City of Grosse Pointe Woods Precinct 1
+0   # City of Grosse Pointe Woods Precinct 2
+0   # City of Grosse Pointe Woods Precinct 3
+0   # City of Grosse Pointe Woods Precinct 4
+0   # City of Grosse Pointe Woods Precinct 5
+0   # City of Grosse Pointe Woods Precinct 6
+0   # City of Hamtramck Precinct 1
+0   # City of Hamtramck Precinct 2
+0   # City of Hamtramck Precinct 3
+0   # City of Hamtramck Precinct 4
+0   # City of Hamtramck Precinct 5
+0   # City of Hamtramck Precinct 6
+0   # City of Hamtramck Precinct 7
+0   # City of Harper Woods Precinct 1
+0   # City of Harper Woods Precinct 2
+0   # City of Harper Woods Precinct 3
+0   # City of Harper Woods Precinct 4
+0   # City of Harper Woods Precinct 5
+0   # City of Harper Woods Precinct 6
+0   # City of Highland Park Precinct 1
+0   # City of Highland Park Precinct 2
+0   # City of Highland Park Precinct 3
+0   # City of Highland Park Precinct 4
+0   # City of Highland Park Precinct 5
+0   # City of Highland Park Precinct 6
+0   # City of Inkster District 1 Precinct 1
+0   # City of Inkster District 1 Precinct 2
+0   # City of Inkster District 2 Precinct 1
+0   # City of Inkster District 2 Precinct 2
+0   # City of Inkster District 3 Precinct 1
+0   # City of Inkster District 3 Precinct 2
+0   # City of Inkster District 4 Precinct 1
+0   # City of Inkster District 4 Precinct 2
+0   # City of Inkster District 5 Precinct 1
+0   # City of Inkster District 6 Precinct 1
+0   # City of Inkster District 6 Precinct 2
+0   # City of Lincoln Park Precinct 2
+0   # City of Lincoln Park Precinct 4
+0   # City of Lincoln Park Precinct 6
+0   # City of Lincoln Park Precinct 8
+0   # City of Lincoln Park Precinct 10
+0   # City of Lincoln Park Precinct 12
+0   # City of Lincoln Park Precinct 14
+0   # City of Lincoln Park Precinct 16
+0   # City of Lincoln Park Precinct 18
+0   # City of Lincoln Park Precinct 20
+0   # City of Lincoln Park Precinct 22
+0   # City of Lincoln Park Precinct 24
+0   # City of Livonia Precinct 1A
+0   # City of Livonia Precinct 1B
+0   # City of Livonia Precinct 2A
+0   # City of Livonia Precinct 3A
+0   # City of Livonia Precinct 3B
+0   # City of Livonia Precinct 4A
+0   # City of Livonia Precinct 7A
+0   # City of Livonia Precinct 8A
+0   # City of Livonia Precinct 8B
+0   # City of Livonia Precinct 9A
+0   # City of Livonia Precinct 10A
+0   # City of Livonia Precinct 11A
+0   # City of Livonia Precinct 12A
+0   # City of Livonia Precinct 13A
+0   # City of Livonia Precinct 14A
+0   # City of Livonia Precinct 15A
+0   # City of Livonia Precinct 16A
+0   # City of Livonia Precinct 16B
+0   # City of Livonia Precinct 17A
+0   # City of Livonia Precinct 17B
+0   # City of Livonia Precinct 18A
+0   # City of Livonia Precinct 19A
+0   # City of Livonia Precinct 19B
+0   # City of Livonia Precinct 20A
+0   # City of Livonia Precinct 21A
+0   # City of Livonia Precinct 22A
+0   # City of Livonia Precinct 22B
+0   # City of Livonia Precinct 23A
+0   # City of Livonia Precinct 23B
+0   # City of Livonia Precinct 24A
+0   # City of Livonia Precinct 24B
+0   # City of Livonia Precinct 25A
+0   # City of Livonia Precinct 31A
+0   # City of Livonia Precinct 31B
+0   # City of Livonia Precinct 32A
+0   # City of Livonia Precinct 33A
+0   # City of Livonia Precinct 34A
+0   # City of Livonia Precinct 34B
+0   # City of Livonia Precinct 34C
+0   # City of Livonia Precinct 35A
+0   # City of Livonia Precinct 35B
+0   # City of Livonia Precinct 35C
+0   # City of Livonia Precinct 36A
+0   # City of Livonia Precinct 36B
+0   # City of Melvindale Precinct 1
+0   # City of Melvindale Precinct 2
+0   # City of Melvindale Precinct 3
+0   # City of Melvindale Precinct 4
+0   # City of Melvindale Precinct 5
+0   # City of Northville Precinct 1
+0   # City of Plymouth Precinct 1
+0   # City of Plymouth Precinct 2
+0   # City of Plymouth Precinct 3
+0   # City of Plymouth Precinct 4
+0   # City of River Rouge Precinct 1
+0   # City of River Rouge Precinct 2
+0   # City of River Rouge Precinct 3
+0   # City of River Rouge Precinct 4
+0   # City of River Rouge Precinct 5
+0   # City of Riverview Precinct 1
+0   # City of Riverview Precinct 2
+0   # City of Riverview Precinct 3
+0   # City of Riverview Precinct 4
+0   # City of Rockwood Precinct 1
+0   # City of Rockwood Precinct 2
+0   # City of Romulus Precinct 1
+0   # City of Romulus Precinct 2
+0   # City of Romulus Precinct 3
+0   # City of Romulus Precinct 4
+0   # City of Romulus Precinct 5
+0   # City of Romulus Precinct 6
+0   # City of Romulus Precinct 7
+0   # City of Romulus Precinct 8
+0   # City of Romulus Precinct 9
+0   # City of Romulus Precinct 10
+0   # City of Romulus Precinct 11
+0   # City of Romulus Precinct 12
+0   # City of Southgate Precinct 1
+0   # City of Southgate Precinct 2
+0   # City of Southgate Precinct 3
+0   # City of Southgate Precinct 4
+0   # City of Southgate Precinct 5
+0   # City of Southgate Precinct 6
+0   # City of Southgate Precinct 7
+0   # City of Southgate Precinct 8
+0   # City of Southgate Precinct 9
+0   # City of Southgate Precinct 10
+0   # City of Southgate Precinct 11
+0   # City of Taylor Precinct 1
+0   # City of Taylor Precinct 2
+0   # City of Taylor Precinct 3
+0   # City of Taylor Precinct 4
+0   # City of Taylor Precinct 5
+0   # City of Taylor Precinct 6
+0   # City of Taylor Precinct 7
+0   # City of Taylor Precinct 8
+0   # City of Taylor Precinct 9
+0   # City of Taylor Precinct 10
+0   # City of Taylor Precinct 11
+0   # City of Taylor Precinct 12
+0   # City of Taylor Precinct 13
+0   # City of Taylor Precinct 14
+0   # City of Taylor Precinct 15
+0   # City of Taylor Precinct 16
+0   # City of Taylor Precinct 17
+0   # City of Taylor Precinct 18
+0   # City of Taylor Precinct 19
+0   # City of Taylor Precinct 20
+0   # City of Taylor Precinct 21
+0   # City of Taylor Precinct 22
+0   # City of Taylor Precinct 23
+0   # City of Trenton Precinct 1
+0   # City of Trenton Precinct 2
+0   # City of Trenton Precinct 3
+0   # City of Trenton Precinct 4
+0   # City of Trenton Precinct 5
+0   # City of Trenton Precinct 6
+0   # City of Trenton Precinct 7
+0   # City of Wayne Ward 1 Precinct 1
+0   # City of Wayne Ward 2 Precinct 2
+0   # City of Wayne Ward 3 Precinct 3
+0   # City of Wayne Ward 4 Precinct 4
+0   # City of Wayne Ward 5 Precinct 5
+0   # City of Wayne Ward 6 Precinct 6
+0   # City of Westland Precinct 1
+0   # City of Westland Precinct 2
+0   # City of Westland Precinct 3
+0   # City of Westland Precinct 4
+0   # City of Westland Precinct 5
+0   # City of Westland Precinct 6
+0   # City of Westland Precinct 7
+0   # City of Westland Precinct 8
+0   # City of Westland Precinct 9
+0   # City of Westland Precinct 10
+0   # City of Westland Precinct 11
+0   # City of Westland Precinct 12
+0   # City of Westland Precinct 13
+0   # City of Westland Precinct 14
+0   # City of Westland Precinct 15
+0   # City of Westland Precinct 16
+0   # City of Westland Precinct 17
+0   # City of Westland Precinct 18
+0   # City of Westland Precinct 19
+0   # City of Westland Precinct 20
+0   # City of Westland Precinct 21
+0   # City of Westland Precinct 22
+0   # City of Westland Precinct 23
+0   # City of Westland Precinct 24
+0   # City of Westland Precinct 25
+0   # City of Westland Precinct 27
+0   # City of Westland Precinct 28
+0   # City of Westland Precinct 29
+0   # City of Westland Precinct 30
+0   # City of Westland Precinct 32
+0   # City of Westland Precinct 33
+0   # City of Westland Precinct 34
+0   # City of Westland Precinct 35
+0   # City of Westland Precinct 36
+0   # City of Westland Precinct 37
+0   # City of Westland Precinct 38
+0   # City of Westland Precinct 39
+0   # City of Westland Precinct 40
+0   # City of Westland Precinct 41
+0   # City of Woodhaven Precinct 1
+0   # City of Woodhaven Precinct 2
+0   # City of Woodhaven Precinct 3
+0   # City of Woodhaven Precinct 4
+0   # City of Woodhaven Precinct 5
+0   # City of Woodhaven Precinct 6
+0   # City of Wyandotte Precinct 1
+0   # City of Wyandotte Precinct 2
+0   # City of Wyandotte Precinct 3
+0   # City of Wyandotte Precinct 4
+0   # City of Wyandotte Precinct 5
+0   # City of Wyandotte Precinct 6
+0   # City of Wyandotte Precinct 7
+0   # City of Wyandotte Precinct 8
+0   # City of Wyandotte Precinct 9
+0   # City of Wyandotte Precinct 10
+0   # Township of Grosse Ile Precinct 1
+0   # Township of Grosse Ile Precinct 2
+0   # Township of Grosse Ile Precinct 3
+0   # Township of Grosse Ile Precinct 4
+0   # Township of Sumpter Precinct 1
+0   # Township of Sumpter Precinct 2
+0   # Township of Sumpter Precinct 3
+0   # Township of Sumpter Precinct 4
+0   # Township of Sumpter Precinct 5
+0   # Township of Sumpter Precinct 6
+0   # Village of Grosse Pointe Shores A Michigan City Precinct 1
+0   # Village of Grosse Pointe Shores A Michigan City Precinct 2
+0   # Village of Grosse Pointe Shores A Michigan City Precinct 3 MACOMB

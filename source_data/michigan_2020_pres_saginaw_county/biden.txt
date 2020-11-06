@@ -1,0 +1,85 @@
+393   # Albee Township Precinct 1
+537   # Birch Run Township Precinct 1
+359   # Birch Run Township Precinct 2
+347   # Birch Run Township Precinct 3
+282   # Blumfield Township Precinct 1
+379   # Brady Township Precinct 1
+310   # Brant Township Precinct 1
+292   # Bridgeport Township Precinct 1
+621   # Bridgeport Township Precinct 2
+460   # Bridgeport Township Precinct 3
+1,195   # Bridgeport Township Precinct 4
+355   # Bridgeport Township Precinct 5
+297   # Buena Vista Charter Township Precinct 1
+702   # Buena Vista Charter Township Precinct 2
+633   # Buena Vista Charter Township Precinct 3
+497   # Buena Vista Charter Township Precinct 4
+812   # Buena Vista Charter Township Precinct 5
+688   # Carrollton Township Precinct 1
+944   # Carrollton Township Precinct 2
+127   # Chapin Township Precinct 1
+613   # Chesaning Township Precinct 1
+547   # Chesaning Township Precinct 2
+620   # City of Frankenmuth Precinct 1
+463   # City of Frankenmuth Precinct 2
+1,181   # City of Saginaw Precinct 1
+602   # City of Saginaw Precinct 2
+949   # City of Saginaw Precinct 3
+715   # City of Saginaw Precinct 4
+565   # City of Saginaw Precinct 5
+900   # City of Saginaw Precinct 6
+1,043   # City of Saginaw Precinct 7
+804   # City of Saginaw Precinct 8
+679   # City of Saginaw Precinct 9
+837   # City of Saginaw Precinct 10
+872   # City of Saginaw Precinct 11
+832   # City of Saginaw Precinct 12
+887   # City of Saginaw Precinct 13
+1,174   # City of Saginaw Precinct 14
+1,016   # City of Saginaw Precinct 15
+1,151   # City of Saginaw Precinct 16
+397   # City of Zilwaukee Precinct 1
+358   # Frankenmuth Township Precinct 1
+380   # Fremont Township Precinct 1
+401   # James Township Precinct 1
+313   # Jonesfield Township Precinct 1
+556   # Kochville Township Precinct 1
+171   # Lakefield Township Precinct 1
+599   # Maple Grove Township Precinct 1
+107   # Marion Township Precinct 1
+398   # Richland Township Precinct 1
+393   # Richland Township Precinct 2
+858   # Saginaw Township Precinct 1
+629   # Saginaw Township Precinct 2
+673   # Saginaw Township Precinct 3
+466   # Saginaw Township Precinct 4
+955   # Saginaw Township Precinct 5
+931   # Saginaw Township Precinct 6
+1,082   # Saginaw Township Precinct 7
+552   # Saginaw Township Precinct 8
+785   # Saginaw Township Precinct 9
+962   # Saginaw Township Precinct 10
+999   # Saginaw Township Precinct 11
+756   # Saginaw Township Precinct 12
+1,113   # Saginaw Township Precinct 13
+891   # Saginaw Township Precinct 14
+383   # Saginaw Township Precinct 15
+964   # Saginaw Township Precinct 16
+530   # Spaulding Township Precinct 1
+225   # St. Charles Township Precinct 1
+329   # St. Charles Township Precinct 2
+468   # Swan Creek Township Precinct 1
+364   # Taymouth Township Precinct 1
+539   # Taymouth Township Precinct 2
+366   # Thomas Township Precinct 1
+480   # Thomas Township Precinct 2
+491   # Thomas Township Precinct 3
+287   # Thomas Township Precinct 4
+435   # Thomas Township Precinct 5
+380   # Thomas Township Precinct 6
+399   # Thomas Township Precinct 7
+645   # Tittabawassee Township Precinct 1
+501   # Tittabawassee Township Precinct 2
+308   # Tittabawassee Township Precinct 3
+556   # Tittabawassee Township Precinct 4
+13   # Zilwaukee Township Precinct 1

@@ -1,0 +1,31 @@
+930   # Antrim Township Precinct 1
+1,330   # Bennington Township Precinct 1
+1,413   # Burns Township Precinct 1
+887   # Caledonia Charter Township Precinct 1
+539   # Caledonia Charter Township Precinct 2
+779   # City of Corunna Precinct 1
+475   # City of Durand Precinct 1
+525   # City of Durand Precinct 2
+400   # City of Laingsburg Precinct 1
+803   # City of Owosso Precinct 1-1
+645   # City of Owosso Precinct 2-1
+543   # City of Owosso Precinct 2-2
+759   # City of Owosso Precinct 2-3
+329   # City of Owosso Precinct 2-4
+638   # City of Owosso Precinct 6-1
+695   # City of Perry Precinct 1
+240   # Fairfield Township Precinct 1
+794   # Hazelton Township Precinct 1
+658   # Middlebury Township Precinct 1
+491   # New Haven Township Precinct 1
+1,069   # Owosso Charter Township Precinct 1
+599   # Owosso Charter Township Precinct 2
+700   # Perry Township Precinct 1
+779   # Perry Township Precinct 2
+465   # Rush Township Precinct 1
+647   # Sciota Township Precinct 1
+1,127   # Shiawassee Township Precinct 1
+921   # Venice Township Precinct 1
+892   # Vernon Township Precinct 1
+747   # Vernon Township Precinct 2
+1,335   # Woodhull Township Precinct 1

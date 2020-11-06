@@ -1,0 +1,50 @@
+379   # City of Coleman Precinct 1
+348   # City of Midland Ward 1 Precinct 1
+531   # City of Midland Ward 1 Precinct 2
+174   # City of Midland Ward 1 Precinct 3
+526   # City of Midland Ward 1 Precinct 4
+363   # City of Midland Ward 1 Precinct 5
+32   # City of Midland Ward 1 Precinct 6
+439   # City of Midland Ward 2 Precinct 1
+515   # City of Midland Ward 2 Precinct 2
+448   # City of Midland Ward 2 Precinct 3
+650   # City of Midland Ward 2 Precinct 4
+546   # City of Midland Ward 3 Precinct 1
+559   # City of Midland Ward 3 Precinct 2
+622   # City of Midland Ward 3 Precinct 3
+772   # City of Midland Ward 3 Precinct 4
+605   # City of Midland Ward 4 Precinct 1
+405   # City of Midland Ward 4 Precinct 2
+685   # City of Midland Ward 4 Precinct 3
+575   # City of Midland Ward 4 Precinct 4
+562   # City of Midland Ward 4 Precinct 5
+518   # City of Midland Ward 5 Precinct 1
+503   # City of Midland Ward 5 Precinct 2
+519   # City of Midland Ward 5 Precinct 3
+445   # City of Midland Ward 5 Precinct 4
+482   # City of Midland Ward 5 Precinct 5
+1,047   # Edenville Township Precinct 1
+428   # Geneva Township Precinct 1
+675   # Greendale Township Precinct 1
+464   # Homer Township Precinct 1
+477   # Homer Township Precinct 2
+604   # Homer Township Precinct 3
+641   # Hope Township Precinct 1
+626   # Ingersoll Township Precinct 1
+472   # Ingersoll Township Precinct 2
+404   # Jasper Township Precinct 1
+257   # Jerome Township Precinct 1
+486   # Jerome Township Precinct 2
+256   # Jerome Township Precinct 3
+624   # Jerome Township Precinct 4
+834   # Larkin Township Precinct 1
+658   # Larkin Township Precinct 2
+552   # Larkin Township Precinct 3
+751   # Lee Township Precinct 1
+663   # Lee Township Precinct 2
+1,025   # Lincoln Township Precinct 1
+863   # Midland Township Precinct 1
+733   # Mills Township Precinct 1
+668   # Mt. Haley Township Precinct 1
+480   # Porter Township Precinct 1
+784   # Warren Township Precinct 1

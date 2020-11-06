@@ -1,0 +1,62 @@
+1,191   # Bainbridge Township Precinct 1
+1,100   # Baroda Township Precinct 1
+586   # Benton Charter Township Precinct 1
+185   # Benton Charter Township Precinct 2
+260   # Benton Charter Township Precinct 3
+385   # Benton Charter Township Precinct 4
+420   # Benton Charter Township Precinct 5
+146   # Benton Charter Township Precinct 6
+878   # Berrien Township Precinct 1
+775   # Berrien Township Precinct 2
+1,081   # Bertrand Township Precinct 1
+1,306   # Buchanan Township Precinct 1
+946   # Chikaming Township Precinct 1
+43   # City of Benton Harbor Precinct 1
+34   # City of Benton Harbor Precinct 2
+36   # City of Benton Harbor Precinct 3
+56   # City of Benton Harbor Precinct 4
+708   # City of Bridgman Precinct 1
+626   # City of Buchanan Precinct 1
+530   # City of Buchanan Precinct 2
+503   # City of Coloma Precinct 1
+474   # City of New Buffalo Precinct 1
+460   # City of Niles Precinct 1
+583   # City of Niles Precinct 2
+528   # City of Niles Precinct 3
+769   # City of Niles Precinct 4
+771   # City of St. Joseph Precinct 1
+676   # City of St. Joseph Precinct 2
+619   # City of St. Joseph Precinct 3
+468   # City of Watervliet Precinct 1
+989   # Coloma Charter Township Precinct 1
+808   # Coloma Charter Township Precinct 2
+546   # Galien Township Precinct 1
+561   # Hagar Township Precinct 1
+654   # Hagar Township Precinct 2
+1,401   # Lake Charter Township Precinct 1
+1,152   # Lincoln Charter Township Precinct 1
+772   # Lincoln Charter Township Precinct 2
+1,062   # Lincoln Charter Township Precinct 3
+1,067   # Lincoln Charter Township Precinct 4
+676   # Lincoln Charter Township Precinct 5
+620   # Lincoln Charter Township Precinct 6
+706   # New Buffalo Township Precinct 1
+931   # Niles Charter Township Precinct 1
+527   # Niles Charter Township Precinct 2
+985   # Niles Charter Township Precinct 3
+899   # Niles Charter Township Precinct 4
+895   # Niles Charter Township Precinct 5
+996   # Oronoko Charter Township Precinct 1
+408   # Oronoko Charter Township Precinct 2
+505   # Oronoko Charter Township Precinct 3
+846   # Pipestone Township Precinct 1
+882   # Royalton Township Precinct 1
+1,055   # Royalton Township Precinct 2
+719   # Sodus Township Precinct 1
+730   # St. Joseph Charter Township Precinct 1
+744   # St. Joseph Charter Township Precinct 2
+602   # St. Joseph Charter Township Precinct 3
+1,143   # St. Joseph Charter Township Precinct 4
+756   # Three Oaks Township Precinct 1
+1,038   # Watervliet Township Precinct 1
+700   # Weesaw Township Precinct 1

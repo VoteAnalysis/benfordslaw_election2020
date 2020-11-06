@@ -1,0 +1,33 @@
+1,079   # Almena Township Precinct 1
+734   # Almena Township Precinct 2
+622   # Antwerp Township Precinct 1
+1,059   # Antwerp Township Precinct 2
+666   # Antwerp Township Precinct 3
+674   # Antwerp Township Precinct 4
+999   # Antwerp Township Precinct 5
+580   # Arlington Township Precinct 1
+576   # Bangor Township Precinct 1
+934   # Bloomingdale Township Precinct 1
+350   # City of Bangor Precinct 1
+253   # City of Gobles Precinct 1
+501   # City of Hartford Precinct 1
+263   # City of South Haven Ward 1 Precinct 1
+328   # City of South Haven Ward 2 Precinct 1
+385   # City of South Haven Ward 3 Precinct 1
+1   # City of South Haven Ward 3 Precinct 2
+769   # Columbia Township Precinct 1
+408   # Covert Township Precinct 1
+924   # Decatur Township Precinct 1
+910   # Geneva Township Precinct 1
+438   # Hamilton Township Precinct 1
+818   # Hartford Township Precinct 1
+706   # Keeler Township Precinct 1
+913   # Lawrence Township Precinct 1
+704   # Paw Paw Township Precinct 1
+656   # Paw Paw Township Precinct 2
+433   # Paw Paw Township Precinct 3
+1,109   # Pine Grove Township Precinct 1
+906   # Porter Township Precinct 1
+724   # South Haven Township Precinct 1
+369   # South Haven Township Precinct 2
+800   # Waverly Township Precinct 1

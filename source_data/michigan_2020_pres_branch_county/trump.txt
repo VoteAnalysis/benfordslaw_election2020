@@ -1,0 +1,22 @@
+714   # Algansee Township Precinct 1
+494   # Batavia Township Precinct 1
+448   # Bethel Township Precinct 1
+538   # Bronson Township Precinct 1
+459   # Butler Township Precinct 1
+204   # California Township Precinct 1
+589   # City of Bronson Precinct 1
+486   # City of Coldwater Precinct 1
+749   # City of Coldwater Precinct 2
+913   # City of Coldwater Precinct 3
+609   # City of Coldwater Precinct 4
+1,332   # Coldwater Township Precinct 1
+254   # Gilead Township Precinct 1
+772   # Girard Township Precinct 1
+675   # Kinderhook Township Precinct 1
+460   # Matteson Township Precinct 1
+211   # Noble Township Precinct 1
+1,082   # Ovid Township Precinct 1
+522   # Quincy Township Precinct 1
+841   # Quincy Township Precinct 2
+743   # Sherwood Township Precinct 1
+971   # Union Township Precinct 1

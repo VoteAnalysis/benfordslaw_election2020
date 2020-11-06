@@ -1,0 +1,31 @@
+375   # Ashland Township Precinct 1
+100   # Barton Township Precinct 1
+64   # Beaver Township Precinct 1
+356   # Big Prairie Township Precinct 1
+329   # Bridgeton Township Precinct 1
+229   # Brooks Township Precinct 1
+436   # Brooks Township Precinct 2
+487   # City of Fremont Precinct 1
+419   # City of Fremont Precinct 2
+121   # City of Grant Precinct 1
+329   # City of Newaygo Precinct 1
+148   # City of White Cloud Precinct 1
+270   # Croton Township Precinct 1
+368   # Croton Township Precinct 2
+354   # Dayton Township Precinct 1
+325   # Denver Township Precinct 1
+347   # Ensley Township Precinct 1
+281   # Everett Township Precinct 1
+410   # Garfield Township Precinct 1
+87   # Goodwell Township Precinct 1
+388   # Grant Township Precinct 1
+35   # Home Township Precinct 1
+143   # Lilley Township Precinct 1
+232   # Lincoln Township Precinct 1
+168   # Merrill Township Precinct 1
+40   # Monroe Township Precinct 1
+102   # Norwich Township Precinct 1
+412   # Sheridan Charter Township Precinct 1
+338   # Sherman Township Precinct 1
+28   # Troy Township Precinct 1
+153   # Wilcox Township Precinct 1

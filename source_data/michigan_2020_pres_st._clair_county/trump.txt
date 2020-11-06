@@ -1,0 +1,65 @@
+764   # Algonac City Precinct 1
+916   # Algonac City Precinct 2
+1,523   # Berlin Township Precinct 1
+919   # Brockway Township Precinct 1
+755   # Burtchville Township Precinct 2
+680   # Burtchville Township Precinct 3
+732   # Casco Township Precinct 1
+937   # Casco Township Precinct 2
+843   # China Township Precinct 1
+691   # China Township Precinct 2
+1,261   # Clay Township Precinct 1
+1,171   # Clay Township Precinct 3
+590   # Clay Township Precinct 4
+1,270   # Clay Township Precinct 5
+1,446   # Clyde Township Precinct 1
+873   # Clyde Township Precinct 2
+1,220   # Columbus Township Precinct 1
+702   # Columbus Township Precinct 3
+1,545   # Cottrellville Township Precinct 1
+1,604   # East China Township Precinct 1
+1,145   # Emmett Township Precinct 1
+960   # Fort Gratiot Township Precinct 1
+968   # Fort Gratiot Township Precinct 2
+741   # Fort Gratiot Township Precinct 3
+1,308   # Fort Gratiot Township Precinct 4
+829   # Grant Township Precinct 1
+629   # Greenwood Township Precinct 1
+904   # Ira Township Precinct 1
+1,202   # Ira Township Precinct 2
+1,065   # Kenockee Township Precinct 1
+906   # Kimball Township Precinct 1
+1,217   # Kimball Township Precinct 2
+1,421   # Kimball Township Precinct 3
+544   # Lynn Township Precinct 1
+641   # Marine City Precinct 1
+752   # Marine City Precinct 2
+1,053   # Marysville City Precinct 1
+755   # Marysville City Precinct 2
+837   # Marysville City Precinct 3
+970   # Marysville City Precinct 4
+124   # Memphis City Precinct 2
+1,583   # Mussey Township Precinct 1
+696   # Port Huron City Precinct 1
+710   # Port Huron City Precinct 2
+825   # Port Huron City Precinct 3
+654   # Port Huron City Precinct 4
+501   # Port Huron City Precinct 5
+654   # Port Huron City Precinct 6
+401   # Port Huron City Precinct 7
+656   # Port Huron City Precinct 8
+626   # Port Huron City Precinct 9
+442   # Port Huron City Precinct 10
+963   # Port Huron Township Precinct 1
+937   # Port Huron Township Precinct 2
+695   # Port Huron Township Precinct 3
+598   # Port Huron Township Precinct 4
+0   # Richmond City Precinct 1
+1,597   # Riley Township Precinct 1
+707   # St. Clair City Precinct 1
+699   # St. Clair City Precinct 2
+651   # St. Clair City Precinct 3
+1,615   # St. Clair Township Precinct 1
+1,519   # St. Clair Township Precinct 2
+1,429   # Wales Township Precinct 1
+613   # Yale City Precinct 1

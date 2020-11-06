@@ -1,0 +1,23 @@
+303   # Burr Oak Township Precinct 1
+440   # Colon Township Precinct 1
+325   # Constantine Township Precinct 1
+225   # Constantine Township Precinct 2
+698   # Fabius Township Precinct 1
+188   # Fawn River Township Precinct 1
+136   # Florence Township Precinct 1
+274   # Flowerfield Township Precinct 1
+130   # Leonidas Township Precinct 1
+802   # Lockport Township Precinct 1
+523   # Mendon Township Precinct 1
+181   # Mottville Township Precinct 1
+514   # Nottawa Township Precinct 1
+448   # Park Township Precinct 1
+506   # Sherman Township Precinct 1
+497   # Sturgis City Precinct 1
+310   # Sturgis City Precinct 2
+233   # Sturgis City Precinct 3
+372   # Sturgis City Precinct 4
+271   # Sturgis Township Precinct 1
+654   # Three Rivers City Precinct 1
+694   # Three Rivers City Precinct 2
+538   # White Pigeon Township Precinct 1

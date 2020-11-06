@@ -1,0 +1,21 @@
+356   # Arcada Township Pecinct 1
+202   # Bethany Township Pecinct 1
+576   # City of Alma Precinct 1
+623   # City of Alma Precinct 2
+568   # City of Alma Precinct 3
+604   # City of Ithaca Precinct 1
+696   # City of St. Louis Precinct 1
+190   # Elba Township Precinct 1
+155   # Emerson Township Precinct 1
+474   # Fulton Township Precinct 1
+63   # Hamilton Township Precinct 1
+86   # Lafayette Township Precinct 1
+141   # New Haven Township Precinct 1
+135   # Newark Township Precinct 1
+73   # North Shade Township Precinct 1
+155   # North StarTownship Precinct 1
+463   # Pine River Township Precinct 1
+307   # Seville Township Precinct 1
+293   # Sumner Township Precinct 1
+125   # Washington Township Precinct 1
+408   # Wheeler Township Precinct 1

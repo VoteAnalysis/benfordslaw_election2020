@@ -1,0 +1,29 @@
+646   # Broomfield Township Precinct 1
+668   # Chippewa Township Precinct 1
+445   # Chippewa Township Precinct 2
+0   # City of Clare Precinct 1
+476   # City of Mt. Pleasant Precinct 1
+397   # City of Mt. Pleasant Precinct 2
+476   # City of Mt. Pleasant Precinct 3
+513   # City of Mt. Pleasant Precinct 4
+247   # City of Mt. Pleasant Precinct 5
+294   # City of Mt. Pleasant Precinct 6
+141   # City of Mt. Pleasant Precinct 7
+569   # Coe Township Precinct 1
+477   # Coe Township Precinct 2
+270   # Coldwater Township Precinct 1
+694   # Deerfield Township Precinct 1
+438   # Deerfield Township Precinct 2
+352   # Denver Township Precinct 1
+564   # Fremont Township Precinct 1
+539   # Gilmore Township Precinct 1
+621   # Isabella Township Precinct 1
+777   # Lincoln Township Precinct 1
+829   # Nottawa Township Precinct 1
+440   # Rolland Township Precinct 1
+1,026   # Sherman Township Precinct 1
+621   # Union Charter Township Precinct 1
+787   # Union Charter Township Precinct 2
+536   # Union Charter Township Precinct 3
+492   # Vernon Township Precinct 1
+480   # Wise Township Precinct 1

@@ -1,0 +1,15 @@
+131   # Chase Township Precinct 1
+94   # Cherry Valley Township Precinct 2
+53   # Dover Township Precinct 3
+102   # Eden Township Precinct 4
+257   # Elk Township Precinct 5
+123   # Ellsworth Township Precinct 6
+198   # Lake Township Precinct 7
+77   # Newkirk Township Precinct 8
+92   # Peacock Township Precinct 10
+101   # Pinora Township Precinct 11
+338   # Pleasant Plains Township Precinct 12
+88   # Sauble Township Precinct 15
+51   # Sweetwater Township Precinct 16
+291   # Webber Township Precinct 17
+292   # Yates Township Precinct 19

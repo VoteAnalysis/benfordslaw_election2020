@@ -1,0 +1,252 @@
+472   # Ada Township Precinct 1
+886   # Ada Township Precinct 2
+592   # Ada Township Precinct 3
+554   # Ada Township Precinct 4
+1,032   # Ada Township Precinct 5
+380   # Ada Township Precinct 6
+446   # Ada Township Precinct 7
+510   # Ada Township Precinct 8
+719   # Algoma Township Precinct 1
+902   # Algoma Township Precinct 2
+1,000   # Algoma Township Precinct 3
+857   # Algoma Township Precinct 4
+1,214   # Algoma Township Precinct 5
+511   # Alpine Township Precinct 1
+471   # Alpine Township Precinct 2
+898   # Alpine Township Precinct 3
+937   # Alpine Township Precinct 4
+555   # Alpine Township Precinct 5
+310   # Alpine Township Precinct 6
+1,557   # Bowne Township Precinct 1
+1,503   # Byron Township Precinct 1
+1,621   # Byron Township Precinct 2
+772   # Byron Township Precinct 3
+1,463   # Byron Township Precinct 4
+1,615   # Byron Township Precinct 5
+829   # Byron Township Precinct 6
+1,311   # Byron Township Precinct 7
+1,124   # Byron Township Precinct 8
+544   # Caledonia Charter Township Precinct 1
+1,132   # Caledonia Charter Township Precinct 2
+1,206   # Caledonia Charter Township Precinct 3
+829   # Caledonia Charter Township Precinct 4
+1,378   # Caledonia Charter Township Precinct 5
+996   # Caledonia Charter Township Precinct 6
+1,106   # Cannon Township Precinct 1
+1,052   # Cannon Township Precinct 2
+789   # Cannon Township Precinct 3
+1,153   # Cannon Township Precinct 4
+826   # Cannon Township Precinct 5
+961   # Cannon Township Precinct 6
+670   # Cascade Charter Township Precinct 1
+765   # Cascade Charter Township Precinct 2
+543   # Cascade Charter Township Precinct 3
+715   # Cascade Charter Township Precinct 4
+1,120   # Cascade Charter Township Precinct 5
+579   # Cascade Charter Township Precinct 6
+534   # Cascade Charter Township Precinct 7
+529   # Cascade Charter Township Precinct 8
+574   # Cascade Charter Township Precinct 9
+682   # Cascade Charter Township Precinct 10
+956   # Cedar Springs City Precinct 1
+1,073   # Courtland Township Precinct 1
+1,363   # Courtland Township Precinct 2
+1,294   # Courtland Township Precinct 3
+433   # East Grand Rapids City Ward 1 Precinct 1
+459   # East Grand Rapids City Ward 1 Precinct 2
+447   # East Grand Rapids City Ward 2 Precinct 3
+368   # East Grand Rapids City Ward 2 Precinct 4
+357   # East Grand Rapids City Ward 3 Precinct 5
+354   # East Grand Rapids City Ward 3 Precinct 6
+1,367   # Gaines Charter Township Precinct 1
+719   # Gaines Charter Township Precinct 2
+945   # Gaines Charter Township Precinct 3
+752   # Gaines Charter Township Precinct 4
+489   # Gaines Charter Township Precinct 5
+1,004   # Gaines Charter Township Precinct 6
+1,437   # Gaines Charter Township Precinct 7
+1,082   # Gaines Charter Township Precinct 8
+624   # Gaines Charter Township Precinct 9
+674   # Grand Rapids Charter Township Precinct 1
+430   # Grand Rapids Charter Township Precinct 2
+636   # Grand Rapids Charter Township Precinct 3
+721   # Grand Rapids Charter Township Precinct 4
+714   # Grand Rapids Charter Township Precinct 5
+733   # Grand Rapids Charter Township Precinct 6
+406   # Grand Rapids Charter Township Precinct 7
+722   # Grand Rapids Charter Township Precinct 8
+553   # Grand Rapids Charter Township Precinct 9
+407   # Grand Rapids City Ward 1 Precinct 1
+183   # Grand Rapids City Ward 1 Precinct 2
+374   # Grand Rapids City Ward 1 Precinct 3
+253   # Grand Rapids City Ward 1 Precinct 4
+224   # Grand Rapids City Ward 1 Precinct 5
+775   # Grand Rapids City Ward 1 Precinct 6
+384   # Grand Rapids City Ward 1 Precinct 8
+322   # Grand Rapids City Ward 1 Precinct 9
+452   # Grand Rapids City Ward 1 Precinct 10
+668   # Grand Rapids City Ward 1 Precinct 11
+297   # Grand Rapids City Ward 1 Precinct 12
+376   # Grand Rapids City Ward 1 Precinct 13
+551   # Grand Rapids City Ward 1 Precinct 14
+151   # Grand Rapids City Ward 1 Precinct 15
+181   # Grand Rapids City Ward 1 Precinct 16
+502   # Grand Rapids City Ward 1 Precinct 17
+64   # Grand Rapids City Ward 1 Precinct 18
+425   # Grand Rapids City Ward 1 Precinct 19
+900   # Grand Rapids City Ward 1 Precinct 20
+833   # Grand Rapids City Ward 1 Precinct 21
+55   # Grand Rapids City Ward 1 Precinct 22
+756   # Grand Rapids City Ward 1 Precinct 23
+66   # Grand Rapids City Ward 1 Precinct 24
+154   # Grand Rapids City Ward 2 Precinct 25
+371   # Grand Rapids City Ward 2 Precinct 26
+268   # Grand Rapids City Ward 2 Precinct 27
+406   # Grand Rapids City Ward 2 Precinct 28
+255   # Grand Rapids City Ward 2 Precinct 29
+331   # Grand Rapids City Ward 2 Precinct 30
+419   # Grand Rapids City Ward 2 Precinct 31
+255   # Grand Rapids City Ward 2 Precinct 32
+131   # Grand Rapids City Ward 2 Precinct 33
+452   # Grand Rapids City Ward 2 Precinct 34
+614   # Grand Rapids City Ward 2 Precinct 35
+249   # Grand Rapids City Ward 2 Precinct 36
+705   # Grand Rapids City Ward 2 Precinct 37
+455   # Grand Rapids City Ward 2 Precinct 38
+88   # Grand Rapids City Ward 2 Precinct 39
+209   # Grand Rapids City Ward 2 Precinct 40
+789   # Grand Rapids City Ward 2 Precinct 41
+501   # Grand Rapids City Ward 2 Precinct 42
+529   # Grand Rapids City Ward 2 Precinct 43
+618   # Grand Rapids City Ward 2 Precinct 44
+749   # Grand Rapids City Ward 2 Precinct 45
+587   # Grand Rapids City Ward 2 Precinct 46
+509   # Grand Rapids City Ward 2 Precinct 47
+213   # Grand Rapids City Ward 2 Precinct 48
+234   # Grand Rapids City Ward 2 Precinct 49
+194   # Grand Rapids City Ward 2 Precinct 50
+357   # Grand Rapids City Ward 3 Precinct 51
+57   # Grand Rapids City Ward 3 Precinct 52
+735   # Grand Rapids City Ward 3 Precinct 53
+449   # Grand Rapids City Ward 3 Precinct 54
+595   # Grand Rapids City Ward 3 Precinct 55
+546   # Grand Rapids City Ward 3 Precinct 56
+291   # Grand Rapids City Ward 3 Precinct 57
+522   # Grand Rapids City Ward 3 Precinct 58
+492   # Grand Rapids City Ward 3 Precinct 59
+200   # Grand Rapids City Ward 3 Precinct 60
+133   # Grand Rapids City Ward 3 Precinct 61
+139   # Grand Rapids City Ward 3 Precinct 62
+154   # Grand Rapids City Ward 3 Precinct 63
+243   # Grand Rapids City Ward 3 Precinct 64
+299   # Grand Rapids City Ward 3 Precinct 65
+63   # Grand Rapids City Ward 3 Precinct 66
+117   # Grand Rapids City Ward 3 Precinct 67
+209   # Grand Rapids City Ward 3 Precinct 68
+476   # Grand Rapids City Ward 3 Precinct 69
+74   # Grand Rapids City Ward 3 Precinct 70
+189   # Grand Rapids City Ward 3 Precinct 71
+183   # Grand Rapids City Ward 3 Precinct 72
+268   # Grand Rapids City Ward 3 Precinct 73
+243   # Grand Rapids City Ward 3 Precinct 74
+105   # Grand Rapids City Ward 3 Precinct 75
+71   # Grand Rapids City Ward 3 Precinct 76
+302   # Grand Rapids City Ward 3 Precinct 77
+766   # Grandville City Precinct 1
+807   # Grandville City Precinct 2
+1,035   # Grandville City Precinct 3
+1,029   # Grandville City Precinct 4
+1,027   # Grandville City Precinct 5
+806   # Grandville City Precinct 6
+855   # Grattan Township Precinct 1
+819   # Grattan Township Precinct 2
+569   # Kentwood City Ward 1 Precinct 1
+922   # Kentwood City Ward 1 Precinct 2
+518   # Kentwood City Ward 1 Precinct 3
+378   # Kentwood City Ward 1 Precinct 4
+379   # Kentwood City Ward 1 Precinct 5
+708   # Kentwood City Ward 1 Precinct 6
+507   # Kentwood City Ward 1 Precinct 7
+795   # Kentwood City Ward 1 Precinct 8
+563   # Kentwood City Ward 1 Precinct 9
+753   # Kentwood City Ward 2 Precinct 10
+905   # Kentwood City Ward 2 Precinct 11
+461   # Kentwood City Ward 2 Precinct 12
+596   # Kentwood City Ward 2 Precinct 13
+225   # Kentwood City Ward 2 Precinct 14
+524   # Kentwood City Ward 2 Precinct 15
+879   # Kentwood City Ward 2 Precinct 16
+285   # Kentwood City Ward 2 Precinct 17
+382   # Kentwood City Ward 2 Precinct 18
+1,256   # Lowell Charter Township Precinct 1
+964   # Lowell Charter Township Precinct 2
+589   # Lowell City Precinct 1
+555   # Lowell City Precinct 2
+999   # Nelson Township Precinct 1
+904   # Nelson Township Precinct 2
+791   # Oakfield Township Precinct 1
+933   # Oakfield Township Precinct 2
+680   # Oakfield Township Precinct 3
+1,298   # Plainfield Charter Township Precinct 1
+1,165   # Plainfield Charter Township Precinct 2
+710   # Plainfield Charter Township Precinct 3
+828   # Plainfield Charter Township Precinct 4
+867   # Plainfield Charter Township Precinct 5
+1,504   # Plainfield Charter Township Precinct 6
+1,255   # Plainfield Charter Township Precinct 7
+1,089   # Plainfield Charter Township Precinct 8
+1,140   # Plainfield Charter Township Precinct 9
+872   # Plainfield Charter Township Precinct 10
+827   # Plainfield Charter Township Precinct 11
+718   # Rockford City Precinct 1
+1,053   # Rockford City Precinct 2
+993   # Solon Township Precinct 1
+1,499   # Solon Township Precinct 2
+1,265   # Sparta Township Precinct 1
+873   # Sparta Township Precinct 2
+1,025   # Sparta Township Precinct 3
+1,051   # Spencer Township Precinct 1
+779   # Spencer Township Precinct 2
+1,031   # Tyrone Township Precinct 1
+793   # Tyrone Township Precinct 2
+1,100   # Vergennes Township Precinct 1
+858   # Vergennes Township Precinct 2
+545   # Walker City Ward 1 Precinct 1
+734   # Walker City Ward 1 Precinct 2
+777   # Walker City Ward 1 Precinct 3
+1,109   # Walker City Ward 2 Precinct 4
+917   # Walker City Ward 2 Precinct 5
+829   # Walker City Ward 2 Precinct 6
+876   # Walker City Ward 3 Precinct 7
+1,027   # Walker City Ward 3 Precinct 8
+828   # Walker City Ward 3 Precinct 9
+483   # Wyoming City Ward 1 Precinct 1
+284   # Wyoming City Ward 1 Precinct 2
+516   # Wyoming City Ward 1 Precinct 3
+471   # Wyoming City Ward 1 Precinct 4
+567   # Wyoming City Ward 1 Precinct 5
+433   # Wyoming City Ward 1 Precinct 6
+782   # Wyoming City Ward 1 Precinct 7
+346   # Wyoming City Ward 1 Precinct 8
+532   # Wyoming City Ward 1 Precinct 9
+342   # Wyoming City Ward 2 Precinct 10
+233   # Wyoming City Ward 2 Precinct 11
+275   # Wyoming City Ward 2 Precinct 12
+509   # Wyoming City Ward 2 Precinct 13
+426   # Wyoming City Ward 2 Precinct 14
+317   # Wyoming City Ward 2 Precinct 15
+455   # Wyoming City Ward 2 Precinct 16
+353   # Wyoming City Ward 2 Precinct 17
+387   # Wyoming City Ward 2 Precinct 18
+582   # Wyoming City Ward 2 Precinct 19
+576   # Wyoming City Ward 2 Precinct 20
+843   # Wyoming City Ward 3 Precinct 21
+432   # Wyoming City Ward 3 Precinct 22
+566   # Wyoming City Ward 3 Precinct 23
+779   # Wyoming City Ward 3 Precinct 24
+813   # Wyoming City Ward 3 Precinct 25
+419   # Wyoming City Ward 3 Precinct 26
+476   # Wyoming City Ward 3 Precinct 27
+981   # Wyoming City Ward 3 Precinct 28
+821   # Wyoming City Ward 3 Precinct 29
+1,088   # Wyoming City Ward 3 Precinct 30
